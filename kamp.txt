@@ -1,0 +1,51 @@
+
+OBS! Ny grunnterning i kamp er d8
+ - fordeler: +1 og +2 er ikke like dominerende --> ikke fullt så knekte eventyrere
+        - bedre våpen (se senere)
+        - mer flaks, også for bøndene mot godt utrusta skjeletter
+        - skjold+hjelm beskytter mot 2 mindre
+        - flere nyanser, mulighet for downgrade til d6
+
+Rekkefølge:
+ - Kampen starter med ranged:
+     - de med bue får skyte en gang
+     - den med initiativ starter, så annenhver gang
+ - Deretter nærkampsrunder til en side har tapt:
+     - den med initiativ velger hvem som slåss mot hvem
+     - eventyrere med initiativ kan velge å bruke én "angrep:"-egenskap
+ - Seid/generelle egenskap kan brukes før alle slag
+     - nekromanseren har prioritet
+     - deretter eventyrere
+ 
+Våpen:
+
+- spyd er d6+2 (3-8)
+- sverd er d8+1 (2-9)
+- øks er d10 (1-10)
+
+- hellebard, langsverd og kampøks kan alle slå om igjen 1/2 én gang per kamp
+    - helt parallellt med hvordan skjoldet fungerer
+    - hellebard er best for lowlevels, øks er best for highlevels, sverd er balansert
+    
+- bue er d8 
+- langbue er d10 (best for flinke)
+- armbrøst er d6+2 (best for ikke-flinke)
+
+
+Eventyrer-endringer:
+
+ - magiker og prest får +terning per level mot seid.
+
+Nekromanser-endringer:
+
+ - trollmannen starter med studie på handa og studerer gratis, mens magikeren starter med 3 seid
+ - krøsus begynner med 13 ressurser og får 1 ny per runde
+ - dropper nattevandreren (kjedelig uten oppholdsrom-spenning)
+ - dropper arkitekten (ikke gøy å avsløre alle rommene)
+ - den sorte ridder får velge startvåpen og skjold, og har +1 i all kamp. Han kan levle og ta utstyr fra skjelettene sine.
+ - væpneren starter med Våpensmie og Rustningsmie på handa
+
+Annet:
+
+ - det er maks 20 inntrengere i et rom av gangen
+ - det kommer minst 30 bønder, men det er et hemmelig valg om å få flere --> den som klarer flest og overlever er best.

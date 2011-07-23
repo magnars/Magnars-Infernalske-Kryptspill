@@ -1,0 +1,114 @@
+Oppsummering av nye regler:
+===========================
+
+Levling
+
+* Skjeletter kan levle. Det kan andre også.
+* Skjeletter blir level 2 når de dreper en motstander.
+  De blir enten Kriger eller Skytter, avhengig av hvordan
+  motstanderen ble drept.
+* Krigere slår en ekstra terning i nærkamp, og bruker høyeste tall de slo.
+* Skyttere slår en ekstra terning med bue, og bruker høyeste tall de slo.
+* Muligheter for ytterligere levling står på Kriger og Skytter-kortene.
+* Eventyrere av høyere level blir bedre i varierende ting.
+  Eksempelvis får krigere en ekstra terning i nærkamp, mens en magiker
+  får et ekstra kampseid.
+* Når det er uspesifisert hva levelen gjør (som på generelle monstere),
+  betyr det at det slår ekstra terninger og bruker høyeste tall i all kamp.
+* Skjelettene levler ikke mot bøndene.
+
+Kamp
+
+* Ny grunnterning er d8.
+* Det finnes en rekke forskjellige våpen. Det finnes vanlige våpen,
+  bra våpen, og magiske våpen. 
+* Skjold og hjelm fungerer nå i kombinasjon, og kan da stoppe et tap med -2.
+  Både skjold og hjelm regnes da som brukt.
+* Bønder, og enkelte andre, har en ny egenskap: De svermer.
+     - opp til fem av dem sloss på en gang
+     - motstanderen må forsvare mot høyeste verdi eller tape
+     - hvis det finnes flere av den høyeste verdien, gir de +1  (eksempel: 1 1 3 4 4 ---> 4 + 1)
+     - motstanderen kan drepe flere av dem i slengen:
+     - legg sammen de minste terningene til du når slagets verdi
+        (eksempel: 6 vs 1 1 3 6 6 ---> dreper 3 av dem (1+1+3 < 6), men dør selv (6+1 = 7))
+* Presisering av kamprekkefølge:
+     - Kampen starter med skudd:
+         - de med bue får skyte en gang
+         - den med initiativ starter, så annenhver gang
+     - Deretter nærkampsrunder til en side har tapt:
+         - den med initiativ velger hvem som slåss mot hvem
+         - eventyrere med initiativ kan velge å bruke et "angrep"
+     - Seid/generelle egenskaper kan brukes før alle slag
+         - nekromanseren har prioritet
+         - deretter eventyrere
+         - max ett seid mellom hvert slag
+
+Angrep på krypten
+
+* Krypten kan angripes av eventyrere og bønder. Begge disse omtales som inntrengere.
+* Det kommer 3 eventyrere på dag 11. Ingen apprentices.
+* Det kommer 5 level to eventyrere på dag 17.
+* På dag 23 kommer det minst 30 bønder. Dersom du mener at krypten din kan ta flere,
+  så kan du selv velge å provosere bøndene med noen bitende kommentarer. En hemmelig
+  "budrunde" for å velge hvor mange som skal komme. Den som overlever mot flest bønder
+  er den umoralske vinneren.
+* Dersom du har et rom som tiltrekker flere bønder (som landsbyen og skattekammer),
+  så vil det komme flere bønder på toppen av det du bød. Men for å bestemme vinneren,
+  så er det budet ditt - og ikke det totale antall bønder - som gjelder.
+* Det er maks plass til 20 inntrengere i et rom samtidig (viktig for ting som inferno
+  og piler i veggene). Det gjelder også for ting som kampestein.
+* Når alle skjelettene har vært i kamp (tipp de underveis), så kan du bruke alle
+  de tippede skjelettene på nytt. Men taper de da, så blir de sønderknust.
+* Dersom du taper kampen mot eventyrere, så blir to av dine skjeletter sønderknust.
+
+
+Loot
+
+* Dersom en eventyrer blir knust i en felle, brent til biter av et seid, eller lignende,
+  så blir alt utstyret ødelagt. Du får da:
+   ingenting for lvl 1, 1 ressurs for lvl 2, 2 ressurser for lvl 3, 3 ressurser for lvl 4.
+* Dersom eventyreren blir drept av skjelett får skjelettet øyeblikkelig loot. (levler også
+  med det samme, hvis den var lvl 1). En lvl 1 eventyrer gir ingenting, lvl 2 eventyrer
+  gir et vanlig våpen, lvl 3 eventyrer gir et bra våpen, og en lvl 4 eventyrer gir en
+  magisk gjenstand. Du kan velge å få ressurser istedet.
+
+
+Våpen
+
+* Vanlige våpen: 
+    - spyd er d6+2
+    - sverd er d8+1
+    - øks er d10
+    - bue er skudd med d8
+* Bra våpen: 
+    - langsverd er som sverd, slår om igjen alle 1 og 2 én gang per kamp
+    - kampøks er som øks, slår om igjen alle 1 og 2 én gang per kamp
+    - hellebard er som spyd, slår om igjen alle 1 og 2 én gang per kamp
+    - langbue er skudd med d10
+    - armbrøst er skudd med d6+2
+* Magiske gjenstander er alle forskjellige
+
+
+Annet
+
+* Du begynner med flere romkort på hånda.
+* Det kommer nye hendelser i skogen etter første og andre angrep.
+* Husk å lese på alle romkortene. De fleste har blitt endret, på små eller store måter.
+* Det er ikke lengre noen seremonifase. Alt dette gjøres i planleggingsfasen.
+* Nekromanser og skjeletter som har brukt opp dagen sin i planleggingsfasen blir tippet.
+* To skjeletter må hjelpe til i summoningsseremonien. Tipp dem, og det nye skjelettet.
+* Skjelettene kan bære så mange ressurser som de klarer å få tak i.
+* Nekromanseren kan beholde så mange skjeletter som han klarer å summone. 
+* De stikker ikke av, men de streiker. Hvis du ikke har inflytelse nok, så gjør de ingenting.
+* Sønderknuste skjeletter etter et angrep må gies ordre om å ta seg sammen.
+* Skjeletter kan gi fra seg (hvis de er på samme plass, og ikke under angrep):
+    - våpen, hvis de har et annet
+    - rustning, hvis de har en annen
+    - utstyr, hvis de har en annen (dvs. kan gi bort spaden, hvis det får beholde klubba)
+* Auksjon etter markedsplassen skjer etter at skjelettene har kommet hjem for dagen.
+* Du fjerner like mange byggesteiner som du slo. Ikke nødvendig å fordele terninger på rom.
+* Du kan ikke slå samme terning på nytt vha utstyr hvis du slår 1 flere ganger.
+* Du starter med et tilfeldig vanlig våpen (sverd, øks, spyd eller bue).
+* Du begynner med inngangen ferdig bygget.
+* Du er begrenset av rommenes plassering - og kan ikke bygge ut forover fra inngangen.
+
