@@ -1,0 +1,29 @@
+Med leveling-system så er bøndene screwed. Dermed må de få en ny mulighet: swarming.
+
+Swarming fungerer slik: Skjelettet må slåss med 5 bønder av gangen.
+
+Han må forsvare mot den høyeste for å ikke bli overmannet.
+Og hvor mange dreper han? Jo, du legger sammen de minste terningene til du har nådd summen av slaget.
+Så mange av bøndene dør.
+
+Eksempel:
+
+Skjelettet slår 5. Bøndene slår 1 1 5 5 6. Skjelettet taper (5 vs 6), men dreper to bønder (1 + 1 < 5)
+
+Skjelettet slår 6. Bøndene slår 5 5 5 5 6. Skjelettet overlever (6 vs 6), og dreper en bonde (5 < 6)
+
+Skjelettet slår 4. Bøndene slår 1 1 1 1 3. Skjelettet overlever og dreper 3 bønder (1 + 1 + 1 < 4)
+
+Skjelettet slår 5. Bøndene slår 1 2 2 3 3. Skjelettet overlever og dreper 2 bønder (1 + 2 < 5)
+
+
+Swarming har en ekstra egenskap: Like terninger legger på +1 (på egen verdi). Eksempel:
+
+1 2 3 4 4 = to firere = 4 + 1 = 5
+
+1 2 5 5 5 = tre femmere = 5 + 1 + 1 = 7
+
+2 2 2 2 4 = øverste er 4, men fire toere gir = 2 + 1 + 1 + 1 = 5  --> 5
+
+Dette gjelder bare swarming - ikke ekstra terninger pga levels.
+

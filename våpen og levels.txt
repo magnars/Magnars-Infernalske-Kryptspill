@@ -1,0 +1,66 @@
+
+Kamp med terninger der høyeste vinner kan varieres slik:
+ - slå flere terninger (velge høyeste resultat)
+ - legge til på terningtall
+ - slå lave tall om igjen
+ - vinne på uavgjort
+ - uavgjort når du taper med liten margin
+ - få større terning (6 -> 8)
+ - la ekstra terninger øke summen
+ - bare du kan vinne (må naturligvis begrenses)
+
+
+Disse fordeles utover slik:
+
+ - slå flere terninger ---> din level
+ - legge til på terningtall ---> ditt våpen
+ - slå lave tall om igjen ---> bra våpen
+ - vinne på uavgjort ---> gift
+ - uavgjort når du taper med liten margin ---> skjold og hjelm
+ - få større terning ---> ditt våpen
+ - la ektra terninger øke summen ---> magisk våpen
+ - bare du kan vinne ---> pil og bue
+ 
+Nærkamp:
+
+ - Sverd --> +1 på resultat
+ - Øks --> 8-er terning
+ - Spyd --> Slå en 1/2'er om igjen
+ 
+ - Langsverd --> +1 på resultat, slå en 1/2'er om igjen
+ - Kampøks --> 8-er terning, +1 på resultat
+ - Hellebard --> slå en 1/2'er om igjen, 8-er terning
+ 
+ - Magisk langsverd --> som langsverd, men får + for ekstra terninger på 5 og 6
+ - Magisk kampøks --> som kampøks, men slår 10-er terning
+ - Magisk hellebard --> som hellebard, men slår 1 og 2 om igjen
+
+Skyting:
+
+ - Bue --> kan skyte
+
+ - Armbrøst --> 8-er terning
+ - Langbue --> +1 på resultat
+
+ - Magisk armbrøst -> som armbrøst, slår 1 om igjen
+ - Magisk langbue -> som langbue, men får + for ekstra terninger på 5 og 6
+
+De første våpnene kan lages i smier, lootes fra lvl 2 eventyrere, kjøpes av væpneren, og skaffes i skogen.
+De andre våpnene kan skaffes på markedsplassen, lootes fra lvl 3 eventyrere, og fåes i skogen fra fase 2
+Magiske våpen kan fåes på sjeldent markedsplass-salg, og fra en tøff fase 3-skogsevent
+
+Jeg har allerede lagd noen spesielt kule magiske våpen. Disse bør utvides og brukes videre.
+
+Levler:
+
+Nærkamp:
+        lvl 1 ---> slår en terning. For å oppnå lvl 2: drep en fiende
+        lvl 2 ---> slår to terninger. For å oppnå lvl 3: parér med skjold, så drep på neste slag
+        lvl 3 ---> slår tre terninger. +1 i forsvar mot bueskudd. For å oppnå lvl 4: drep en lvl 3 eventyrer
+        lvl 4 ---> slår fire terninger. +2 i forsvar mot bueskudd.
+
+Skyting:
+        lvl 1 ---> slår en terning. For å oppnå lvl 2: drep en fiende
+        lvl 2 ---> slår to terninger. For å oppnå lvl 3: vinn med 4 eller mer (1 vs 5, 2 vs 6)
+        lvl 3 ---> slår tre terninger. Kan splitte i 2 skudd med 2 terninger. For å oppnå lvl 4: drep to fiender med dine to skudd
+        lvl 4 ---> slår fire terninger. Kan splitte i 3 skudd med 2 terninger.
