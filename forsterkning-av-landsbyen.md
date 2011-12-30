@@ -16,6 +16,19 @@ En kjerre med varer humper inn i byen, kun beskyttet av to bønder. Angripe?
    3 ekstra bønder styrter ut for å hjelpe.
    Kjerra inneholder tre ressurser og et bra våpen, men to mennesker rømmer.
 
+En av fangene trygler for sitt liv og lover sin fineste skatt for frihet.
+La ham gå?
+   Skatten var tre ressurser.
+
+En av fangene trygler for sitt liv og lover sin fineste skatt for frihet.
+La ham gå?
+   Skatten var en langbue.
+
+En av fangene trygler for sitt liv og lover sin fineste skatt for frihet.
+La ham gå?
+   Han henter fire venner, og de svermer dere.
+   Finner en seidebok på ett av likene.
+
 Mens landsbybeboerne er opptatt med muring, trening, drilling og smiing klarer
 et skjelett å stikke av med to ressurser.
 
@@ -49,6 +62,18 @@ over skuldra. Angrip eller flykt?
 
 Trampene gjennom torget kommer LØYTNANT KRASS. Han er lvl 2 med hjelm og skjold.
 Angrip eller flykt?
+   Flykt: mist ett menneske.
+   Angrip: Roper på en vakt etter første runde. De svermer sammen. Vakta dør først.
+   Andre døde løytnant? --> Kommandanten angriper!
+
+Stampende ut av smia kommer LØYTNANT BARSK. Han har to vakter og +2 i kamp.
+Angrip eller flykt?
+   Flykt: mist ett menneske.
+   Angrip: De svermer. Vaktene dør først.
+   Andre døde løytnant? --> Kommandanten angriper!
+
+Spradende gjennom porten kommer LØYTNANT BAJAS. Han er en lvl 3 skytter med
+armbrøst.  Angrip eller flykt?
    Flykt: mist ett menneske.
    Angrip: Roper på en vakt etter første runde. De svermer sammen. Vakta dør først.
    Andre døde løytnant? --> Kommandanten angriper!
