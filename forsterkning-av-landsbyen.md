@@ -52,6 +52,22 @@ låst lem i brosteinen. Slå skjelettenes nærkampterninger. Lemmen ryker på en
 6'er eller mer.
    I mørket under lemmen ligger en bue, en hjelm og en ressurs.
 
+På toppen av den uferdige bymuren sitter to murere. De ser skjelettene på vei
+ut av byen, og starter å kaste mustein. I all virraken klarer alle fangene
+unntatt en (som fikk en murstein i huet) å rømme.
+
+Skjelettene har funnet noen enkle ofre i et lite hus. På vei ut styrter faren
+i huset ned trappa. Han lover skjelettene en kongebra felleidé hvis alle får
+gå fri. Ja eller nei?
+   Nei: Ta med faren også.
+   Ja: Se på 3 romkort per frigitte fange, og velg ett.
+
+Noen utspekulerte bønder har plassert seg på toppen av byporten med en schwær
+stein. Se om klarer å slå [6].
+   [6]: Skjelettet hopper unna, og steinen knuser en av fangene istedet.
+   [1]-[5]: Skjelettet sønderknuses av steinen og fangene flykter.
+
+
 ## Løytnantene
 
 Brøytende ut fra bakern kommer LØYTNANT LARM. Han har to vakter og ei kampøks
