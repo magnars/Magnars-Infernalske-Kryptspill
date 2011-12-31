@@ -83,13 +83,20 @@ får velge først.
 Dette syns jeg høres bra ut. Eneste problem: Når kommer Balrogen? Hva om man trekker
 dens kort på første runde? Kanskje må man han samlet nok kort for at det skal trå til.
 
-Man kan også ordne det slik at antall kort i byggehaugen er avhengig av antall
-gjenværende runder og antall spillere. Så stokker man inn Balrogen i de siste
-kortene. Eksempelvis: 2 spillere med 4 runder igjen. Max 8 kort trukket av
-bunken. Trekk 7 tilfeldige kort fra Krypt-decken. Stokk Balrogen inn med to av
-dem og legg i bunnen. Hvis begge to bygger i alle rundene, så kommer Balrogen,
-enten i runde 22 eller 23.
-
 Litt dumt med dette er at mange av Artifaktene antagelig er best før runde
 23. Det andre dumme er at Artifaktene vil bli mye vanligere. Det kan unngås ved
 at Balrogen faktisk er megavanskelig å drepe.
+
+## En fjerde idé
+
+Istedet for at hendelsene er knyttet til bygging, så kan det være en egen action
+å dra ned i dypet. Da kan det være et alternativ til skogen for de som ikke
+trenger ressurser. Med andre ord bør det være 1) farligere, 2) mer å hente.
+
+Istedet for ressurser så samler man hodeskaller. De er clues. Den med mest
+hodeskaller får velge først blant artefaktene etter balrogen.
+
+Så det du får der nede er hodeskaller + hendelse, som oftest en sjans til å
+levle og få utstyr. Andre ganger en sjans til å bli sønderknust.
+
+### DENNE KJØPER JEG!
