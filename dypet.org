@@ -155,8 +155,6 @@ En lvl 3 ork med langbue står på en balkong med godt utsyn over den mørke hal
 Han rekker ett skudd på hvert skjelett når det løper over gangen og klatrer opp.
 Loot: i tillegg til langbuen, en krystall.
 
-**
-
 Kampøks
 Langsverd + 1 krystall
 Hellebard
@@ -165,9 +163,9 @@ Drageskjellkappe
 8 giftflasker
 Seid
 Artefakt
-2 Krystaller
-3 Krystaller
-3 Krystaller
+2 Krystaller + angrep på byggerne til de som ikke var i krypten
+3 Krystaller + angrep på byggerne
+3 Krystaller + angrep på byggerne
 4 Krystaller
 4 Krystaller
 5 Krystaller
@@ -175,9 +173,73 @@ Edderkoppens hule
 
 * Balrogen
 
-Alle skjelettene til alle spillere får delta i kampen. Balrogen har egne kampkort
-som beskriver hvordan hver runde av kampen utspiller seg. Krystallene kan brukes
-for å dempe flammene hans.
+Alle skjelettene til alle spillere får delta i kampen. Balrogen har egne
+kampkort som beskriver hvordan hver runde av kampen utspiller seg. Krystallene
+kan brukes for å dempe flammene hans.
+
+** Starten av kampen
+
+Før kampen finner spillerne krystaller på utsiden av kammeret.
+ * 4 spillere: 1 hver
+ * 3 spillere: 2 hver
+ * 2 spillere: 4 hver
+
+Kampen starter med at alle med bue får skyte på Balrogen. 6+ treffer.
+Balrogen har 23 hits.
+
+Så angriper Balrogen først og skjelettene deretter, annenhver gang.
+Opp til 12 skjeletter kan angripe på en gang. 6+ treffer.
+
+** Angrepene
+
+*** Frykt
+
+Balrogen brøler og setter liv i beina til skjelettene. De bruker sitt neste
+angrep på å løpe omkring i ren redsel. I tillegg kan ingen bruke krystaller
+under Balrogens neste angrep.
+
+ 1 krystall: Du får bruke krystall på neste angrep.
+
+*** Sverdet
+
+Balrogen svinger pisken rundt det beste skjelettet og sønderknuser det med
+sverdet.
+
+Regn ut beste m 3 poeng per lvl, 3 poeng for artefakt, 2 poeng for bra våpen,
+1 poeng for våpen, hjelm, skjold.
+
+ 1 krystall: Balrogen velger neste skjelett i rekka.
+
+*** Flammehav
+
+Balrogen kaster seg opp i taket og gjør noen sveipende bevegelser. Alle med
+bue får fyrt avgårde ett skudd. Så blir rommet dekket i et flammehav. Alle
+skjeletter dør på 3,2,1.
+
+  1 krystall: Reduser til 2,1 for dine.
+ +1: Reduser til 2,1 for alle.
+ +1: Reduser til 1 for dine.
+ +1: Reduser til 1 for alle.
+
+*** Pisken
+
+Balrogen svinger sin mangehalede pisk og treffer syv tilfeldige skjeletter. De
+må slå 4, 5 eller 6 for å overleve.
+
+ 1 krystall: Reduser til fem skjeletter.
+ +1: Reduser til tre skjeletter.
+
+*** Flammeaura
+
+Balrogen slår opp i flammer, og alle som angrep ham i nærkamp forrige runde
+blir brent. De dør på 3,2,1.
+
+  1 krystall: Reduser til 2,1 for dine.
+ +1: Reduser til 2,1 for alle.
+ +1: Reduser til 1 for dine.
+ +1: Reduser til 1 for alle.
+
+** Etter kampen
 
 Alle skjeletter som fortsatt lever når Balrogen er død levler opp ett hakk. Alle
 spillere som fortsatt har skjeletter tilstede når Balrogen er død får en
