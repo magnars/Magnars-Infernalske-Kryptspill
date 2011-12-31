@@ -152,13 +152,36 @@ slår sin lvl i d6 og må få minst 2x [6] for å slå ned døra og angripe orke
 ** Balkongen
 
 En lvl 3 ork med langbue står på en balkong med godt utsyn over den mørke hallen.
-Han rekker ett skudd på hvert skjelett når det løper over gangen og klatrer opp.
-Loot: i tillegg til langbuen, en krystall.
+Han rekker ett skudd på hvert skjelett når det løper over hallen og klatrer opp.
+   Loot: orken har også en krystall hengende rundt halsen.
 
-Kampøks
-Langsverd + 1 krystall
-Hellebard
-Tårnskjold
+** Goblinvakter
+
+En lvl 2 ork med kampøks svermer sammen med fire goblinvakter. De kommer
+overraskende rundt en sving i gangen, så det er ikke tid til å avfyre skudd.
+
+** Sverdmesteren
+
+En lvl 4 ork med langsverd står og undersøker en krystall i det skjelettene
+kommer inn i rommet. Han har også +3 mot bueskudd.
+
+** Forsvarsorken
+
+En lvl 3 ork med hellebard ser overrasket opp når skjelettene kommer. Han har
+også hjelm og skjold.
+
+** Flammeskjoldet
+
+Syv gobliner står over liket av en orkekommandant. De krangler så busta fyker
+om noe loot. Så snart de ser skjelettene svermer de i angrep.
+   Loot: Flammeskjoldet. En magisk gjenstand.
+         Beskytter mot tap ned til 3 mindre.
+         Dør ikke på [1] i Balrogens flammer.
+
+** Drageskjellkappen
+
+
+
 Drageskjellkappe
 8 giftflasker
 Seid
