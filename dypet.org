@@ -1,9 +1,11 @@
 # Dypet
 
+* Tenking om Dypet
+
 Ideen her var at man i Akt 3 (18-23) kunne få hendelseskort også i krypten mens
 man bygde.
 
-## Det første problemet
+** Det første problemet
 
 Det å bygge i krypten er det viktigste du driver med i Akt 3. Kjernevalget du
 gjør hver runde er; skal jeg sende noen til skogen for en sjans på utstyr og
@@ -12,12 +14,12 @@ levels? Eller må jeg sende alle inn i krypten for å bygge?
 Ved å fjerne det elementet, så blir hele Akt 3 kjedelig. Du trenger bare bygge,
 bygge, bygge og får både levels, loot og en ferdig krypt.
 
-## Det andre problemet
+** Det andre problemet
 
 Det å få bygget ferdig fram til et soverom er ekstremt viktig i Akt 3.
 Tilfeldige hendelser som ødelegger det utgjør en alt for stor nedtur.
 
-## En alternativ plan
+** En alternativ plan
 
 Så tenkte jeg: Hva om man ikke får loot, ikke får levels, ikke får
 byggeproblemer. Hva om man istedet får utvidet dungeonen sin?
@@ -26,7 +28,7 @@ Tanken er at man har kommet over noen orkers hule. Og ved å utforske den (slås
 med orker, gå gjennom feller) så får man overtatt deres feller. Man må antagelig
 bygge litt på dem for å få dem i stand også.
 
-## Hva er galt med det da?
+** Hva er galt med det da?
 
 Jo, to ting. For det første så vet jeg ikke hvordan spillet blir påvirket. Det
 utgjør en stor forandring av siste Akt. Blir det bra? Skal fellene være bedre
@@ -42,13 +44,13 @@ Så da får man en rimelig billig måte å bygge ut dungeonen på, bortsett fra 
 man må tajme godt med det siste soverommet. Det blir jo megadyrt, ettersom du
 har fått masse feller innover i dypet.
 
-## Den siste gale tingen
+** Den siste gale tingen
 
 Og siden man må bygge et megadyrt soverom i enden av disse fellene, så blir hele
 hendelsen en stor waste om den kommer på dag 21-22. Ikke spesielt bra på dag 20
 heller. Så får vi altså en hendelse om bare funker bra på dag 18 og 19.
 
-## Noen måte å redde det på?
+** Noen måte å redde det på?
 
 I bunn og grunn så er det veldig vanskelig å lage en god hendelsesdeck for
 bygging.
@@ -59,7 +61,7 @@ brukes i noen få runder.
 Et alternativ er å flytte den til Akt 2. Et annet alternativ er å finne på
 hendelser til Akt 3 som ikke utgjør noen stor forskjell.
 
-## En tredje idé
+** En tredje idé
 
 Det er jo en tredje måte å unngå problemene over: De fleste kortene gjør
 ingenting. Høres rart ut? Her er ideen:
@@ -87,7 +89,7 @@ Litt dumt med dette er at mange av Artifaktene antagelig er best før runde
 23. Det andre dumme er at Artifaktene vil bli mye vanligere. Det kan unngås ved
 at Balrogen faktisk er megavanskelig å drepe.
 
-## En fjerde idé
+** En fjerde idé
 
 Istedet for at hendelsene er knyttet til bygging, så kan det være en egen action
 å dra ned i dypet. Da kan det være et alternativ til skogen for de som ikke
@@ -99,4 +101,85 @@ hodeskaller får velge først blant artefaktene etter balrogen.
 Så det du får der nede er hodeskaller + hendelse, som oftest en sjans til å
 levle og få utstyr. Andre ganger en sjans til å bli sønderknust.
 
-### DENNE KJØPER JEG!
+** DENNE KJØPER JEG!
+
+* Dypet slik det ble
+
+Ett av dagskortene i Akt 3 (18-22) beskrives slik:
+
+   Dypet
+
+   Dere har gravd for dypt. En svart avgrunn har åpnet seg. Trommer kommer fra
+   dypet.  Resten av spillet kan skjelettene utforske dypet, samle hodeskaller
+   og få hendelser.
+
+Det er 18 hendelseskort i blå plastlommer som finnes fram. Man markerer at
+skjelettet drar til dypet ved å plassere en hodeskalle foran. Det er også
+samling av hodeskaller man gjør med terningslaget.
+
+Disse hodeskallene brukes ikke til noe. Det vil si, ikke før spillerne i
+fellesskap har drept Balrogen. Da får den med flest hodeskaller velge artefakt
+først.
+
+Man kan også finne magiske krystaller der nede. Det skjer på
+hendelseskortene. Disse magiske krystallene gjør heller ingenting. Det vil si,
+de brukes i kamp mot Balrogen.
+
+Balrogen er altså ett av 18 kort. I et 2-mannsspill hvis man får Dypet allerede
+på dag 18, og begge spillerne sender skjeletter ned i Dypet hver runde, så er
+det likevel bare 2/3 sjans for at Balrogen dukker opp. Men han kan også dukke
+opp på første kort i Dypet.
+
+Poenget med Dypet er å gi spillere som ikke trenger ressurser noe annet å ta seg
+til. Det er større risikoer, vanskeligere motstandrere, og større gevinster. Men
+ingen ressurser og ingen bygging. Smart.
+
+* Kortene
+
+** Balrogens kammer
+
+Hvis ingen spillere har noen krystaller, så er kammeret tomt. Trekk nytt.
+---
+En skrekkelig demon hyllet i flammer brøler så det ljomer gjennom kryptene. Alle
+skjelettene til alle spillere haster ned i Dypet for oppgjøret med Balrogen.
+
+** Skytterskår
+
+En lvl 3 ork med armbrøst skjuler seg bak en dør med skytterskår. Han skyter en
+gang, så får skjelettene tre forsøk på å slå ned døra mellom hvert skudd. De
+slår sin lvl i d6 og må få minst 2x [6] for å slå den ned.
+
+** Balkongen
+
+En lvl 3 ork med langbue står på en balkong med godt utsyn over den mørke hallen.
+Han rekker ett skudd på hvert skjelett når det løper over gangen og klatrer opp.
+Loot: i tillegg til langbuen, en krystall.
+
+**
+
+Kampøks
+Langsverd + 1 krystall
+Hellebard
+Tårnskjold
+Drageskjellkappe
+8 giftflasker
+Seid
+Artefakt
+2 Krystaller
+3 Krystaller
+3 Krystaller
+4 Krystaller
+4 Krystaller
+5 Krystaller
+Edderkoppens hule
+
+* Balrogen
+
+Alle skjelettene til alle spillere får delta i kampen. Balrogen har egne kampkort
+som beskriver hvordan hver runde av kampen utspiller seg. Krystallene kan brukes
+for å dempe flammene hans.
+
+Alle skjeletter som fortsatt lever når Balrogen er død levler opp ett hakk. Alle
+spillere som fortsatt har skjeletter tilstede når Balrogen er død får en
+artefakt. Del ut en artefakt per spiller. Den med flest hodeskaller får velge
+først.
