@@ -27,3 +27,4 @@ Swarming har en ekstra egenskap: Like terninger legger på +1 (på egen verdi). 
 
 Dette gjelder bare swarming - ikke ekstra terninger pga levels.
 
+Levling: Man levler ikke fra 1-2 av å drepe en bonde i sverm. Istedet levler man når hele svermen er drept.
