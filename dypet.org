@@ -176,23 +176,90 @@ Syv gobliner står over liket av en orkekommandant. De krangler så busta fyker
 om noe loot. Så snart de ser skjelettene svermer de i angrep.
    Loot: Flammeskjoldet. En magisk gjenstand.
          Beskytter mot tap ned til 3 mindre.
-         Dør ikke på [1] i Balrogens flammer.
+         Dør ikke på [1] i Balrogens flammer. Samme med inferno.
 
 ** Drageskjellkappen
 
+En motspiller trekker 7 rom og bygger en 4er-krypt. Max 1 soverom.
+Voktes av orker med random våpen. I soverom; lvl 2 ork med bra våpen.
+   Loot: Drageskjellkappen. En magisk gjenstand.
+         Er som en hjelm (stacker).
+         Dør ikke på [1] i Balrogens flammer. Samme med inferno.
 
+** Snikmorderen
 
-Drageskjellkappe
-8 giftflasker
-Seid
-Artefakt
-2 Krystaller + angrep på byggerne til de som ikke var i krypten
-3 Krystaller
-3 Krystaller
-4 Krystaller
-4 Krystaller
-5 Krystaller + angrep på byggerne
-Edderkoppens hule
+En snikende ork smetter ut av skyggene og har allerede plantet en lang kniv i
+ryggsøylen til et av skjelettene. Overvinn ham på én kamprunde, før han
+forsvinner i en sky av røyk. Han dodger med 3 terninger.
+   Loot: 6 giftflasker og en krystall.
+
+** Infernalsk orkeshaman
+
+En kaklende gal orkeshaman kaster Inferno på skjelettene. Deretter løper
+han avgårde for å dodge angrepet med 3 terninger, for så å kaste inferno
+på nytt. Repeat.
+   Loot: En seidebok.
+
+** Orkegeneralen
+
+Skjelettene har tatt seg langt inn i dypet, og kommet til en solid dør.
+Den ser ut til å åpnes med en krystall.
+   Skjelettene braser inn i orkenes hovedkvarter. En lvl 4 orkegeneral med
+   kampøks svermer sammen med fire goblinvakter.
+   Loot: en magisk gjenstand.
+
+** Et snikangrep (trekk nytt hvis dag 23)
+
+Skjelettene kommer til en tom vaktstue. I et skjult rom finner de to krystaller.
+---
+Tre orker tar seg ut av dypet hos spillere som ikke har sendt skjeletter til
+dypet denne runden. De angriper skjelettene som bygger. Legg tilbake én stein
+for hvert drepte skjelett.
+
+** En fallen eventyrer
+
+Skjelettene kommer til en stille pendelpassasje. De store tunge steinene ligger
+knust. Under en av dem ligger de smadrede
+beinrestene etter en eventyrer. På liket er det tre krystaller.
+
+** Sarkofagen
+
+Skjelettene har kommet inn i et dystert gravkammer. Midt i rommet står en
+ornamentert steinkiste. Rull skjelettenes nærkampterninger. Får de
+6+ på noen av dem så klarer de å skyve lokket av.
+   I kista: Inntørkede beinrester og en tiara med tre krystaller.
+
+** Forfallent fangehull
+
+I et forfallent fangehull sitter syke og døende fanger. De plages av
+to gobliner, som angriper skjelettene i det de kommer inn.
+   Etter kampen: kun én fange er frisk nok til å flyttes. Ta ham med.
+   Skjelettene finner også fire krystaller på goblinene.
+
+** Tomt studie
+
+Skjelettene har kommet til noe som ser ut som et forlatt studie. De ransaker
+rommet på jakt etter seid, men finner ingen. Istedet finner de en
+hemmelig bunn i en skuff. Der er det fire krystaller.
+
+** Brakker (trekk nytt hvis dag 23)
+
+Skjelettene finner et kompleks med tomme brakker. De går nøye gjennom alt som
+er, og finner utrolige fem krystaller.
+---
+Tre orker tar seg ut av dypet hos alle spillere. De angriper skjelettene som
+bygger. Legg tilbake én stein for hvert drepte skjelett.
+
+** Edderkoppens hule
+
+Et tilfeldig skjelett går i vevet, og er fanget i en kokong.
+Legg dette kortet over skjelettet. Det må reddes av sine medskjeletter,
+neste runde (eller bli spist). Send dine beste til dypet.
+---
+Edderkoppen er lvl 4 med +1. På uavgjort blir skjelettet griset ned med vev,
+og slåss med en lavere terning neste gang.
+   Loot: To mennesker, to krystaller, tre ressurser, hjelm, skjold,
+         bra våpen, tre giftflasker og en hakke.
 
 * Balrogen
 
