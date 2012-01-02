@@ -275,7 +275,7 @@ Før kampen finner spillerne krystaller på utsiden av kammeret.
  * 2 spillere: 4 hver
 
 Kampen starter med at alle med bue får skyte på Balrogen. 6+ treffer.
-Balrogen har 23 hits.
+Balrogen har 40 hits.
 
 Så angriper Balrogen først og skjelettene deretter, annenhver gang.
 Stokk kampkortene, trekk ett per runde til tomt, stokk på nytt.
@@ -330,9 +330,11 @@ blir brent. De dør på 1,2,3.
  +1: Reduser til 1 for dine.
  +1: Reduser til 1 for alle.
 
+Først runde? Trekk nytt.
+
 ** Etter kampen
 
-Alle skjeletter som fortsatt lever når Balrogen er død levler opp ett hakk. Alle
-spillere som fortsatt har skjeletter tilstede når Balrogen er død får en
-artefakt. Del ut en artefakt per spiller. Den med flest hodeskaller får velge
-først.
+Hver spiller velger ett av sine skjeletter som traff Balrogen i siste runde til
+å levle opp ett hakk. Alle spillere som fortsatt har skjeletter tilstede når
+Balrogen er død får en artefakt. Del ut en artefakt per spiller. Den med flest
+hodeskaller får velge først.
