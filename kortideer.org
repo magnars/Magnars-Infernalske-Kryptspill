@@ -1,0 +1,34 @@
+* Seid
+
+** Corpse explosion
+   Alle skjelettene som har dødd i rommet blir sønderknust i bytte for en rå eksplosjon.
+   Evnt gjør den mindre ekstrem, og bare la et skjelett som dør dra med seg et par.
+** Redselsfullt redskap
+   Skjelettenes redskap angriper inntrengerne. Hakker, spader og klubber svermer.
+
+* Spesialitet
+
+Kanskje man får spesialiteten når man slår maks-slag på 2 terninger i
+samme kast?
+
+Ytterligere kompleksitet uten noe særlig, eller er det kult?
+
+** Kampøks: +2 i angrep med kampøks
+   Kampøks blir 3-12 i angrep og 1-10 i forsvar
+** Langsverd: +1 med langsverd
+   Langsverd blir 3-9 i angrep og forsvar
+** Hellebard: +2 i forsvar med hellebard
+   Hellebard blir 3-8 i angrep, 5-10 i forsvar
+** Langbue: Et ekstra skudd
+** Armbrøst: d6+4 istedet for d6+2
+
+* Bedre utstyr
+  Solid spade, solid hakke, solid klubbe. Kan slå 1 og 2 om igjen.
+
+* Nekromansere
+** Den falske profet
+   Bøndene i fangehullet angriper inntrengerne.
+   De blir villig med til seremonien, skjelettene trenger ikke hjelpe.
+** Arkitekten
+   Dagens første romkort er én billigere.
+   Bygging koster én mindre.

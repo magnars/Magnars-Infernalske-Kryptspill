@@ -117,13 +117,16 @@ Det er 18 hendelseskort i blå plastlommer som finnes fram. Man markerer at
 skjelettet drar til dypet ved å plassere en hodeskalle foran. Det er også
 samling av hodeskaller man gjør med terningslaget.
 
-Disse hodeskallene brukes ikke til noe. Det vil si, ikke før spillerne i
-fellesskap har drept Balrogen. Da får den med flest hodeskaller velge artefakt
-først.
+Hodeskallene representerer kunnskap om dypet. Man kan bruke tre hodeskaller
+for å redusere en tallverdi på et hendelseskort i Dypet med en. Eksempelvis
+kan man redusere antall vakter fra 4 til 3, eller man kan gjøre en lvl 3 ork til
+en lvl 2 ork, osv.
+
+Hodeskallene brukes også etter kampen mot Balrogen. Spilleren med flest hodeskaller
+får velge magisk gjenstand først.
 
 Man kan også finne magiske krystaller der nede. Det skjer på
-hendelseskortene. Disse magiske krystallene gjør heller ingenting. Det vil si,
-de brukes i kamp mot Balrogen.
+hendelseskortene. Disse magiske krystallene brukes i kamp mot Balrogen.
 
 Balrogen er altså ett av 18 kort. I et 2-mannsspill hvis man får Dypet allerede
 på dag 18, og begge spillerne sender skjeletter ned i Dypet hver runde, så er

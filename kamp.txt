@@ -9,14 +9,49 @@ OBS! Ny grunnterning i kamp er d8
 Rekkefølge:
  - Kampen starter med ranged:
      - de med bue får skyte en gang
-     - den med initiativ starter, så annenhver gang
+     - den beste skytteren får skyte først.
+         - beste avhenger av level - lik level = eventyrer før skjelett
  - Deretter nærkampsrunder til en side har tapt:
      - den med initiativ velger hvem som slåss mot hvem
      - eventyrere med initiativ kan velge å bruke én "angrep:"-egenskap
  - Seid/generelle egenskap kan brukes før alle slag
      - nekromanseren har prioritet
      - deretter eventyrere
- 
+
+En kamprunde:
+
+To terninger slås mot hverandre. Sammenlign.
+ - likt resultat betyr uavgjort.
+ - ellers dør den med lavest resultat.
+
+ Dette kan forskyves:
+  - pluss i angrep gir økt sjanse til å drepe motstanderen.
+  - pluss i forsvar gir økt sjanse til å overleve selv.
+
+ Per nåværende tidspunkt finnes det ingenting som gir
+ pluss i angrep uten også å gi pluss i forsvar.
+  Et sverd gir +1, som er det samme som +1 i angrep og +1 i forsvar.
+  Et skjold gir +1 i forsvar mot bueskudd.
+  Skjold og hjelm gir begge +1 i forsvar én gang per kamp.
+
+  Hva betyr +1 i angrep alene?
+   - det betyr at du vinner på en ren uavgjort
+  Hva betyr +2 i angrep alene?
+   - det betyr at dere begge kan dø.
+
+ Tanken: Giftflaske gir +2 i angrep. Stacker ikke.
+ Andre ting kan være som et skjold, men på angrep istedet.
+
+ Et våpen kan altså gi deg:
+  +1            --- du får +1 i både forsvar og angrep, i både nærkamp og skyting.
+  +1 i forsvar  --- du får +1 i både nærkamp og skyting, men bare for å ikke dø
+  +1 i angrep   --- du får +1 i både nærkamp og skyting, men bare for å drepe motstanderen
+  +1 i nærkamp  --- du får +1 i både forsvar og angrep, men bare i nærkamp.
+  +1 i skyting  --- du får +1 i både forsvar og angrep, men bare i skyting.
+
+ Spennende tanker.
+
+
 Våpen:
 
 - spyd er d6+2 (3-8)
@@ -26,8 +61,8 @@ Våpen:
 - hellebard, langsverd og kampøks kan alle slå om igjen 1/2 én gang per kamp
     - helt parallellt med hvordan skjoldet fungerer
     - hellebard er best for lowlevels, øks er best for highlevels, sverd er balansert
-    
-- bue er d8 
+
+- bue er d8
 - langbue er d10 (best for flinke)
 - armbrøst er d6+2 (best for ikke-flinke)
 
