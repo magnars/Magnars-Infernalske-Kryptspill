@@ -1,0 +1,60 @@
+Eventyrere
+----------
+
+De er delt opp i to. Et kort med to egenskaper. Et kort med kamptriks vha terninger.
+
+Barbar
+ - Nærkamp: +2 i angrep per level
+ - Slår sin level i terninger når han har initiativet.
+ * Kamprop
+ ** Whirlwind
+
+Skytter
+ - Skyting: +1 per level
+ - Ekstra terning i skyting per level
+ * Ekstra skudd som sønderknuser
+ ** Trickshot - ufarliggjør en felle på avstand
+
+Tjuv
+ - Nærkamp: +2 i angrep
+ - +2 i forsvar mot skyting
+ - Ekstra terning mot feller per level
+ * Scout ahead
+ ** Backstab
+
+Kriger
+ - Nærkamp: +2
+ - Ekstra terning i nærkamp per level
+ - Kan bruke sverd-terninger etter terningene er kastet
+ * Slåss mot to stykk på likt
+ ** Dra ut igjen pila av skulderen
+
+Soldat
+ - +3 i forsvar
+ - Ekstra terning i nærkamp per level
+ * Shield bash (på uavgjort)
+ ** Disarm
+
+Prest
+ - Velsigner alle med omslag i nærkamp, skyting og mot seid.
+   Hver kan slå om igjen én gang per kamp.
+   Slår om igjen terningslag tilsvarende prestens level.
+ * Heal
+ ** Ressurect
+
+Munk
+ - Kan forvise ett skjelett på starten av kampen. Det blir immunt.
+ - Nærkamp: +1 i forsvar, en terning per level.
+ * Sønderknus et døende skjelett
+ **
+
+Magiker
+ - 2 mana per level
+ - 1 mana: snu en kamptriksterning til vilkårlig side
+ - 1 mana: endre hvilken eventyrer som dør
+ - 1 mana: utsett et seid (en kamprunde til først)
+ - 2 mana: eventyrer får slå d20-5 for ett slag
+ - 2 mana: skyt missiler mot en fiende: 3d10
+ - 3 mana: ildkule: 3 fiender dør på [1][2][3]
+ * Ekstra mana
+ ** Invisibility

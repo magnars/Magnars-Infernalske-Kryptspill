@@ -39,9 +39,6 @@ To terninger slås mot hverandre. Sammenlign.
   Hva betyr +2 i angrep alene?
    - det betyr at dere begge kan dø.
 
- Tanken: Giftflaske gir +2 i angrep. Stacker ikke.
- Andre ting kan være som et skjold, men på angrep istedet.
-
  Et våpen kan altså gi deg:
   +1            --- du får +1 i både forsvar og angrep, i både nærkamp og skyting.
   +1 i forsvar  --- du får +1 i både nærkamp og skyting, men bare for å ikke dø
@@ -51,8 +48,30 @@ To terninger slås mot hverandre. Sammenlign.
 
  Spennende tanker.
 
-
 Våpen:
+
+------
+ Det kan også slå om igjen 1'ere. Kanskje 2'ere.
+ Så: et våpen kan eksempelvis være d8 + 2 i angrep  (øks?)
+                                   d8 + 1           (sverd?)
+                                   d8 + 2 i forsvar (spyd?)
+ Men det kan også ha d6, d8, d10.
+ Så her er det muligheter for nye våpentyper.
+------
+
+Giftflaske gir +2 i angrep. Brukes opp. Max en per slag.
+Helsebrygg gir +2 i forsvar. Brukes opp. Max en per slag.
+
+Skjold og hjelm gir +1 i forsvar en gang per kamp.
+
+Rustning:
+
+ Tung rustning: +2 i forsvar, -1 i angrep
+ Brynje: +1 i forsvar
+ Lær: +1 i angrep
+ Spiked lær: +2 i angrep, -1 i forsvar
+
+------
 
 - spyd er d6+2 (3-8)
 - sverd er d8+1 (2-9)
