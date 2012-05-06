@@ -49,15 +49,15 @@ Når angrepet er over kan du gå over de døde eventyrerne og lete etter plynder
 ## Natt 12 til 17
 
 Skjelettene slikker sårene etter angrepet, men det er bare seks netter til det
-neste. Det må bygges mye bedre feller, skjelettene må skaffe bedre utstyr, og du
+neste. Det må bygges nye, bedre feller, skjelettene må skaffe bedre utstyr, og du
 burde kanskje ha noen flere skjeletter også. Det er generelt sett alt for dårlig
-tid. I tillegg er det mere action i skogen.
+tid.
 
 ## Fem eventyrere angriper
 
 Dagen etter den 17. natten angriper fem enda kvassere eventyrere. For å overleve
-det må du enten ha bygget et nytt oppholdsrom bak enda flere feller, eller ha
-studert fram noen skrekkelige seid, eller ha trent opp og skaffet bra utstyr til
+det må du enten ha bygget et nytt oppholdsrom bak enda flere feller, ha studert
+fram noen skrekkelige seid, eller ha trent opp og skaffet bra utstyr til
 skjelettene dine. Denne gangen kommer det også en navngitt eventyrer som leder
 gjengen, med helt spesielle egenskaper.
 
@@ -69,8 +69,18 @@ inntrengere. Rekker du å få opp alle fellene, og med et bra oppholdsrom inners
 
 ## Bøndene svermer inn i krypten
 
+Dagen etter den 23. og siste natten kommer det minste 30 bønder og angriper. De
+svermer inn og overvelder skjelettene med sin store skare. Fella som drepte to
+av eventyrerne virker ikke være like effektiv lengre. Kan du motstå floden?
 
+Spillerne som overlever har vunnet.
+
+Men her er det en tvist. Før angrepet velger hver spiller i all hemmelighet hvor
+mange bønder hen tror hen kan klare. Minst 30. Så mange bønder angriper. Dersom
+flere spillere overlevet angrepet, så vinner den aller mest som tok flest bønder.
 
 # Ett døgn
+
+
 
 # Dine første feller
