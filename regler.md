@@ -64,23 +64,21 @@ gjengen, med helt spesielle egenskaper.
 ## Natt 18 til 23
 
 Nå kommer bøndene snart. Dere må klargjøre krypten for et massivt angrep. Du
-kjøper feller i massevis for å finne de som tar livet av flest mulig
+kjøper flusst med feller for å finne de som tar livet av flest mulig
 inntrengere. Rekker du å få opp alle fellene, og med et bra oppholdsrom innerst?
 
 ## Bøndene svermer inn i krypten
 
-Dagen etter den 23. og siste natten kommer det minste 30 bønder og angriper. De
+Dagen etter den 23. og siste natten kommer det minst 30 bønder og angriper. De
 svermer inn og overvelder skjelettene med sin store skare. Fella som drepte to
 av eventyrerne virker ikke være like effektiv lengre. Kan du motstå floden?
 
 Spillerne som overlever har vunnet.
 
 Men her er det en tvist. Før angrepet velger hver spiller i all hemmelighet hvor
-mange bønder hen tror hen kan klare. Minst 30. Så mange bønder angriper. Dersom
-flere spillere overlevet angrepet, så vinner den aller mest som tok flest bønder.
+mange bønder hen tror hen kan klare. Ikke færre enn 30. Så mange bønder
+angriper. Dersom flere spillere overlevet angrepet, så vinner den aller mest som
+tok flest bønder.
 
 # Ett døgn
-
-
-
 # Dine første feller
