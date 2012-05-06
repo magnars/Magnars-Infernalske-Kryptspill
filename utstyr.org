@@ -1,0 +1,56 @@
+* Våpen
+** Øks
+   Nærkamp: 1d10
+** Sverd
+   Nærkamp: 1d8+1
+** Spyd
+   Nærkamp: 1d6+2
+** Bue
+   Skyting: 1d8
+* Bra våpen
+** Kampøks
+   Nærkamp: 1d10
+   Slå om igjen 1/2 én gang per kamp.
+** Langsverd
+   Nærkamp: 1d8+1
+   Slå om igjen 1/2 én gang per kamp.
+** Hellebard
+   Nærkamp: 1d6+2
+   Slå om igjen 1/2 én gang per kamp.
+** Langbue
+   Skyting: 1d10
+** Armbrøst
+   Skyting: 1d6+2
+* Rustning
+** Hjelm
+   +1 i forsvar én gang per kamp.
+** Skjold
+   +1 i forsvar mot skyting
+   +1 i forsvar én gang per kamp.
+** Tung rustning
+   +2 i forsvar
+   -1 i angrep
+** Brynje
+   +1 i forsvar
+** Lærskjorte
+   +1 i angrep
+** Tornet lærskjorte
+   +2 i angrep
+   -1 i forsvar
+* Verktøy
+** Hakke
+   Slå om igjen én 1-er ved kryptbygging.
+   Oppgradert: 2-ere også.
+** Spade
+   Slå om igjen én 1-er ved ressurssanking.
+   Oppgradert: 2-ere også.
+** Klubbe
+   Slå om igjen én 1-er ved menneskefanging.
+   Oppgradert: 2-ere også.
+* Annet
+** Giftflaske
+   Bruk opp for +2 i angrep. Max én per slag.
+** Helsebrygg
+   Bruk opp for +2 i forsvar. Max én per slag.
+** Seidebok
+   Representerer et seid i markedsplassen.
