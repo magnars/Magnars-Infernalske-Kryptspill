@@ -1,0 +1,85 @@
+Eventyrere
+----------
+
+De er delt opp i to. Et kort med to egenskaper. Et kort med kamptriks vha terninger.
+
+* Barbar
+  +3 i angrep i nærkamp
+
+  +lvl: +2 i angrep i nærkamp
+  +lvl: +1 terning i angrep i nærkamp
+
+  ◊ Kamprop: Eventyrerne får initiativet og +1 i angrep på neste slag.
+   Whirlwind: Slå en terning mot hver motstander i rommet.
+
+* Skytter
+  +1 i skyting
+
+  +lvl: +1 i angrep i skyting
+  +lvl: +1 terning i skyting
+
+   Ekstra skudd
+  ◊ Trickshot - ufarliggjør en felle på avstand
+
+* Tjuv
+  +1 terning mot feller
+  +2 i angrep i nærkamp
+  +2 i forsvar mot skyting
+
+  +lvl: +1 terning mot feller
+
+   Scout ahead: Se på ett fellerom fremover per level.
+  ◊ Backstab: Nærkampangrep før skyting. Skjelettet får ikke bruke noe av sitt utstyr. Sønderknuser.
+
+* Kriger
+  +1 i nærkamp
+  +1 terning i nærkamp
+  Kan bruke sverdterninger etter terningsslaget
+
+  +lvl: +1 terning i nærkamp
+
+   Sønderknus et døende skjelett
+   Dra ut igjen pila av skulderen: ignorer ett bueskudd.
+
+* Soldat
+  +3 i forsvar
+
+  +lvl: +1 terning i kamp
+
+   Shield bash (på uavgjort): Skjelettet kan bare forsvare seg i neste nærkamprunde.
+   Disarm: Skjelettet sloss uten våpen resten av kampen.
+
+* Prest
+  Velsigner alle med omslag i kamp og mot seid.
+  Hver kan slå om igjen én 1-er én gang per kamp.
+
+  +lvl: slå om igjen en ekstra gang per kamp
+  +lvl: slå om igjen høyere slag (lvl 2 = 2-ere)
+
+  ◊ Heal: gi annen eventyrer +2 i forsvar (etter terningsslag)
+  ◊ Ressurect: gjenoppliv en død eventyrer (etter kamp/felle)
+
+* Munk
+  Kan forvise ett skjelett på starten av kampen. Det blir immunt.
+  +2 i forsvar
+
+  +lvl: +1 terning i kamp
+
+  ◊ Blendende lys: Skjelettet kan ikke bruke sitt utstyr neste runde.
+  ◊ Maktord: Sønderknus et tidligere forvist skjelett.
+
+* Magiker
+  3 mana
+
+  +lvl: +2 mana
+  +lvl: +1 terning mot seid
+
+  1 mana: snu en kamptriksterning til vilkårlig side
+  1 mana: endre hvilken eventyrer som dør
+  1 mana: utsett et seid (en kamprunde til først)
+  2 mana: flammende fingre: +4 i angrep i nærkamp
+  2 mana: skyt missiler mot en fiende: 3d10
+  3 mana: ildkule: 3 fiender dør på [1][2][3]
+
+  ◊ Invisibility: Kan ikke angripes. Må brukes først i kampen.
+  ◊◊ Dobbel mana.
