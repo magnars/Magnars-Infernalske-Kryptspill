@@ -1,56 +1,58 @@
-* Våpen
-** Øks
+#+TODO: TODO INPR DONE
+
+* Våpen [0/4]
+** INPR Øks
    Nærkamp: 1d10
-** Sverd
+** INPR Sverd
    Nærkamp: 1d8+1
-** Spyd
+** INPR Spyd
    Nærkamp: 1d6+2
-** Bue
+** TODO Bue
    Skyting: 1d8
-* Bra våpen
-** Kampøks
+* Bra våpen [0/5]
+** TODO Kampøks
    Nærkamp: 1d10
    Slå om igjen 1/2 én gang per kamp.
-** Langsverd
+** TODO Langsverd
    Nærkamp: 1d8+1
    Slå om igjen 1/2 én gang per kamp.
-** Hellebard
+** TODO Hellebard
    Nærkamp: 1d6+2
    Slå om igjen 1/2 én gang per kamp.
-** Langbue
+** TODO Langbue
    Skyting: 1d10
-** Armbrøst
+** TODO Armbrøst
    Skyting: 1d6+2
-* Rustning
-** Hjelm
+* Rustning [0/6]
+** TODO Hjelm
    +1 i forsvar én gang per kamp.
-** Skjold
+** TODO Skjold
    +1 i forsvar mot skyting
    +1 i forsvar én gang per kamp.
-** Tung rustning
+** TODO Brystplate
    +2 i forsvar
    -1 i angrep
-** Brynje
+** TODO Ringbrynje
    +1 i forsvar
-** Lærskjorte
+** TODO Lærbrynje
    +1 i angrep
-** Tornet lærskjorte
+** TODO Tornet brynje
    +2 i angrep
    -1 i forsvar
-* Verktøy
-** Hakke
+* Verktøy [3/3]
+** DONE Hakke
    Slå om igjen én 1-er ved kryptbygging.
    Oppgradert: 2-ere også.
-** Spade
+** DONE Spade
    Slå om igjen én 1-er ved ressurssanking.
    Oppgradert: 2-ere også.
-** Klubbe
+** DONE Klubbe
    Slå om igjen én 1-er ved menneskefanging.
    Oppgradert: 2-ere også.
-* Annet
-** Giftflaske
+* Annet [0/3]
+** TODO Giftflaske
    Bruk opp for +2 i angrep. Max én per slag.
-** Helsebrygg
+** TODO Helsebrygg
    Bruk opp for +2 i forsvar. Max én per slag.
-** Seidebok
+** TODO Seidebok
    Representerer et seid i markedsplassen.
