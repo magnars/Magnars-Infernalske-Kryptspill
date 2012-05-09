@@ -1,16 +1,13 @@
 Eventyrere
 ----------
 
-De er delt opp i to. Et kort med to egenskaper. Et kort med kamptriks vha terninger.
-
 * Barbar
-  +3 i angrep i nærkamp
+  Slår 2d10 i angrep sammen med 1d8 i forsvar.
 
-  +lvl: +2 i angrep i nærkamp
-  +lvl: +1 terning i angrep i nærkamp
+  +lvl: +1d10 i angrep
 
-  ◊ Kamprop: Eventyrerne får initiativet og +1 i angrep på neste slag.
-   Whirlwind: Slå en terning mot hver motstander i rommet.
+  ◊ Kamprop: Eventyrerne får initiativet og barbaren får +1 resten av kampen.
+   Whirlwind: Slå én terning mot hver motstander i rommet.
 
 * Skytter
   +1 i skyting
@@ -18,8 +15,8 @@ De er delt opp i to. Et kort med to egenskaper. Et kort med kamptriks vha ternin
   +lvl: +1 i angrep i skyting
   +lvl: +1 terning i skyting
 
-   Ekstra skudd
-  ◊ Trickshot - ufarliggjør en felle på avstand
+   Ekstra skudd øyeblikkelig etter det vanlige
+  ◊ Trickshot - ufarliggjør en felle på avstand (botch på 1-er)
 
 * Tjuv
   +1 terning mot feller
@@ -38,8 +35,8 @@ De er delt opp i to. Et kort med to egenskaper. Et kort med kamptriks vha ternin
 
   +lvl: +1 terning i nærkamp
 
-   Sønderknus et døende skjelett
-   Dra ut igjen pila av skulderen: ignorer ett bueskudd.
+   Sønderknus et skjelett han har overvunnet
+   Dra ut igjen pila av skulderen: +3 i forsvar mot skyting
 
 * Soldat
   +3 i forsvar
@@ -61,7 +58,7 @@ De er delt opp i to. Et kort med to egenskaper. Et kort med kamptriks vha ternin
 
 * Munk
   Kan forvise ett skjelett på starten av kampen. Det blir immunt.
-  +2 i forsvar
+  +1 i kamp
 
   +lvl: +1 terning i kamp
 
@@ -76,10 +73,10 @@ De er delt opp i to. Et kort med to egenskaper. Et kort med kamptriks vha ternin
 
   1 mana: snu en kamptriksterning til vilkårlig side
   1 mana: endre hvilken eventyrer som dør
-  1 mana: utsett et seid (en kamprunde til først)
-  2 mana: flammende fingre: +4 i angrep i nærkamp
+  1 mana: flammende fingre: +4 i angrep i nærkamp resten av kampen
+  2 mana: utsett et seid (en kamprunde til først)
   2 mana: skyt missiler mot en fiende: 3d10
   3 mana: ildkule: 3 fiender dør på [1][2][3]
 
-  ◊ Invisibility: Kan ikke angripes. Må brukes først i kampen.
-  ◊◊ Dobbel mana.
+  ◊ Usynlighet: Ta magikeren helt ut av kampen.
+  ◊◊ Manaflod: Alle egenskaper koster 1 mana mindre.
