@@ -16,7 +16,7 @@ Eventyrere
   +lvl: +1 terning i skyting
 
    Ekstra skudd øyeblikkelig etter det vanlige
-  ◊ Trickshot - ufarliggjør en felle på avstand (botch på 1-er)
+  ◊ Trickshot - ufarliggjør en felle på avstand (feiler på 1-er)
 
 * Tjuv
   +1 terning mot feller
@@ -26,7 +26,7 @@ Eventyrere
   +lvl: +1 terning mot feller
 
    Scout ahead: Se på ett fellerom fremover per level.
-  ◊ Backstab: Nærkampangrep før skyting. Skjelettet får ikke bruke noe av sitt utstyr. Sønderknuser.
+  ◊ Backstab: Nærkampangrep før skyting med 1 terning per level. Skjelettet får ikke bruke noe av sitt utstyr. Sønderknuser.
 
 * Kriger
   +1 i nærkamp
@@ -43,7 +43,7 @@ Eventyrere
 
   +lvl: +1 terning i kamp
 
-   Shield bash (på uavgjort): Skjelettet kan bare forsvare seg i neste nærkamprunde.
+   Shield bash (på uavgjort): Skjelettet får -2 og kan bare forsvare seg i neste nærkamprunde.
    Disarm: Skjelettet sloss uten våpen resten av kampen.
 
 * Prest
@@ -75,17 +75,17 @@ Eventyrere
   ◊◊ Maktord: Sønderknus et tidligere forvist skjelett.
 
 * Magiker
-  3 mana
+  5 mana
 
-  +lvl: +2 mana
+  +lvl: +3 mana
   +lvl: +1 terning mot seid
 
   1 mana: snu en kamptriksterning til vilkårlig side
-  1 mana: endre hvilken eventyrer som dør
-  1 mana: flammende fingre: +4 i angrep i nærkamp resten av kampen
-  2 mana: utsett et seid (en kamprunde til først)
-  2 mana: skyt missiler mot en fiende: 3d10
-  3 mana: ildkule: 3 fiender dør på [1][2][3]
+  2 mana: flammende fingre: +4 i angrep i nærkamp resten av kampen
+  2 mana: endre hvilken eventyrer som dør
+  3 mana: utsett et seid (en kamprunde til først)
+  3 mana: skyt missiler mot en fiende: 3d10
+  5 mana: ildkule: 3 fiender dør på 1/2/3
 
   ◊ Usynlighet: Ta magikeren helt ut av kampen.
   ◊◊ Manaflod: Alle egenskaper koster 1 mana mindre resten av kampen.
@@ -97,4 +97,4 @@ Eventyrere
   +lvl: +1 terning mot seid og skyting
 
    Blodteft: Minions slåss med d10 resten av kampen.
-  ◊◊ Summoning: Påkall nye minions for å erstatte de som har dødd.
+  ◊◊ Summoning: Påkall 2 minions
