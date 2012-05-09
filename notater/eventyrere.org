@@ -56,14 +56,23 @@ Eventyrere
   ◊ Heal: gi annen eventyrer +2 i forsvar (etter terningsslag)
   ◊ Ressurect: gjenoppliv en død eventyrer (etter kamp/felle)
 
+* Paladin
+  +1 i nærkamp
+  +2 i forsvar mot skyting
+
+  +lvl: +1 terning i kamp
+
+  ◊ Blendende lys: Skjelettet kan ikke bruke sitt utstyr neste runde.
+   Ofrer livet for en annen eventyrer. På 5/6-er så overlever begge.
+
 * Munk
   Kan forvise ett skjelett på starten av kampen. Det blir immunt.
   +1 i kamp
 
   +lvl: +1 terning i kamp
 
-  ◊ Blendende lys: Skjelettet kan ikke bruke sitt utstyr neste runde.
-  ◊ Maktord: Sønderknus et tidligere forvist skjelett.
+   Velsignet våpen: +2 i angrep (etter terningsslaget)
+  ◊◊ Maktord: Sønderknus et tidligere forvist skjelett.
 
 * Magiker
   3 mana
@@ -79,4 +88,13 @@ Eventyrere
   3 mana: ildkule: 3 fiender dør på [1][2][3]
 
   ◊ Usynlighet: Ta magikeren helt ut av kampen.
-  ◊◊ Manaflod: Alle egenskaper koster 1 mana mindre.
+  ◊◊ Manaflod: Alle egenskaper koster 1 mana mindre resten av kampen.
+* Summoner
+  2 svermende minions
+  Minions dør når summoner dør
+
+  +lvl: +1 minion
+  +lvl: +1 terning mot seid og skyting
+
+   Blodteft: Minions slåss med d10 resten av kampen.
+  ◊◊ Summoning: Påkall nye minions for å erstatte de som har dødd.
