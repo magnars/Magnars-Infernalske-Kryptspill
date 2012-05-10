@@ -7,7 +7,7 @@ Eventyrere
   +lvl: +1d10 i angrep
 
   ◊ Kamprop: Eventyrerne får initiativet og barbaren får +1 resten av kampen.
-   Whirlwind: Slå én terning mot hver motstander i rommet.
+   Whirlwind: Hver motstander slår sine terninger. Slå like mange d10 som motstandere og fordel en på hver.
 
 * Skytter
   +1 i skyting
@@ -16,7 +16,7 @@ Eventyrere
   +lvl: +1 terning i skyting
 
    Ekstra skudd øyeblikkelig etter det vanlige
-  ◊ Trickshot - ufarliggjør en felle på avstand (feiler på 1-er)
+  ◊ Trickshot: ufarliggjør en felle (feiler på 1-er)
 
 * Tjuv
   +1 terning mot feller
@@ -35,7 +35,7 @@ Eventyrere
 
   +lvl: +1 terning i nærkamp
 
-   Sønderknus et skjelett han har overvunnet
+   Sønderknus et skjelett krigeren har overvunnet
    Dra ut igjen pila av skulderen: +3 i forsvar mot skyting
 
 * Soldat
@@ -44,7 +44,7 @@ Eventyrere
   +lvl: +1 terning i kamp
 
    Shield bash (på uavgjort): Skjelettet får -2 og kan bare forsvare seg i neste nærkamprunde.
-   Disarm: Skjelettet sloss uten våpen resten av kampen.
+   Disarm: Knus skjelettets våpen. Det må repareres med 1 ressurs en senere dag.
 
 * Prest
   Velsigner alle med omslag i kamp og mot seid.
@@ -60,7 +60,7 @@ Eventyrere
   +1 i nærkamp
   +2 i forsvar mot skyting
 
-  +lvl: +1 terning i kamp
+  +lvl: +1 terning i nærkamp
 
   ◊ Blendende lys: Skjelettet kan ikke bruke sitt utstyr neste runde.
    Ofrer livet for en annen eventyrer. På 5/6-er så overlever begge.
