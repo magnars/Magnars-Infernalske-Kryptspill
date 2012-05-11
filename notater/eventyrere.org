@@ -7,7 +7,7 @@ Eventyrere
   +lvl: +1d10 i angrep
 
   ◊ Kamprop: Eventyrerne får initiativet og barbaren får +1 resten av kampen.
-   Whirlwind: Hver motstander slår sine terninger. Slå like mange d10 som motstandere og fordel en på hver.
+   Virvelvind: Hver motstander slår sine terninger. Slå like mange d10 som motstandere og fordel en på hver.
 
 * Skytter
   +1 i skyting
@@ -15,8 +15,8 @@ Eventyrere
   +lvl: +1 i angrep i skyting
   +lvl: +1 terning i skyting
 
-   Ekstra skudd øyeblikkelig etter det vanlige
-  ◊ Trickshot: ufarliggjør en felle (feiler på 1-er)
+   Lynskudd: Skyt et ekstra skudd øyeblikkelig etter det vanlige
+  ◊ Triksskudd: Ufarliggjør en felle, med mindre du slår 1-er.
 
 * Tjuv
   +1 terning mot feller
@@ -25,36 +25,36 @@ Eventyrere
 
   +lvl: +1 terning mot feller
 
-   Scout ahead: Se på ett fellerom fremover per level.
-  ◊ Backstab: Nærkampangrep før skyting med 1 terning per level. Skjelettet får ikke bruke noe av sitt utstyr. Sønderknuser.
+   Snok: Avslør ett fellerom fremover per level.
+  ◊ Ryggdolking: Nærkampangrep før skyting med 1 terning per level. Skjelettet får ikke bruke noe av sitt utstyr. Sønderknuser.
 
 * Kriger
   +1 i nærkamp
   +1 terning i nærkamp
-  Kan bruke sverdterninger etter terningsslaget
+  Kan bruke sverdterning etter terningsslaget
 
   +lvl: +1 terning i nærkamp
 
-   Sønderknus et skjelett krigeren har overvunnet
-   Dra ut igjen pila av skulderen: +3 i forsvar mot skyting
+   Brutalitet: Sønderknus et skjelett når krigeren vinner over det.
+   Dra pila ut av skulderen: +3 i forsvar mot skyting
 
 * Soldat
   +3 i forsvar
 
   +lvl: +1 terning i kamp
 
-   Shield bash (på uavgjort): Skjelettet får -2 og kan bare forsvare seg i neste nærkamprunde.
-   Disarm: Knus skjelettets våpen. Det må repareres med 1 ressurs en senere dag.
+   Skjoldsmeis: Brukes på uavgjort. Skjelettet får -2 og kan bare forsvare seg neste kamprunde.
+   Avvæpning: Brukes på uavgjort. Knus skjelettets våpen. Det må repareres med 1 ressurs en senere dag.
 
 * Prest
   Velsigner alle med omslag i kamp og mot seid.
   Hver kan slå om igjen én 1-er én gang per kamp.
 
-  +lvl: slå om igjen en ekstra gang per kamp
-  +lvl: slå om igjen høyere slag (lvl 2 = 2-ere)
+  +lvl: slå om en ekstra gang per kamp
+  +lvl: slå om høyere slag (lvl 2 = 2-ere)
 
-  ◊ Heal: gi annen eventyrer +2 i forsvar (etter terningsslag)
-  ◊ Ressurect: gjenoppliv en død eventyrer (etter kamp/felle)
+  ◊ Helbred: Gi annen eventyrer +2 i forsvar etter terningsslaget.
+  ◊ Resurreksjon: Gjenoppliv en død eventyrer etter kamp eller felle.
 
 * Paladin
   +1 i nærkamp
@@ -63,15 +63,15 @@ Eventyrere
   +lvl: +1 terning i nærkamp
 
   ◊ Blendende lys: Skjelettet kan ikke bruke sitt utstyr neste runde.
-   Ofrer livet for en annen eventyrer. På 5/6-er så overlever begge.
+   Livsoffer: Ofrer livet for en annen eventyrer. På 5/6-er så overlever begge.
 
 * Munk
-  Kan forvise ett skjelett på starten av kampen. Det blir immunt.
+  Forviser et skjelett på starten av kampen. Det blir immunt.
   +1 i kamp
 
   +lvl: +1 terning i kamp
 
-   Velsignet våpen: +2 i angrep (etter terningsslaget)
+   Velsignet våpen: +2 i angrep etter terningsslaget.
   ◊◊ Maktord: Sønderknus et tidligere forvist skjelett.
 
 * Magiker
@@ -88,7 +88,7 @@ Eventyrere
   5 mana: ildkule: 3 fiender dør på 1/2/3
 
   ◊ Usynlighet: Ta magikeren helt ut av kampen.
-  ◊◊ Manaflod: Alle egenskaper koster 1 mana mindre resten av kampen.
+  ◊◊ Manaflom: Alle egenskaper koster 1 mana mindre resten av kampen.
 * Summoner
   2 svermende minions
   Minions dør når summoner dør
