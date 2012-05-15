@@ -1,11 +1,11 @@
 #+TODO: TODO INPR DONE
 
-* Våpen [0/4]
-** INPR Øks
+* Våpen [3/4]
+** DONE Øks
    Nærkamp: 1d10
-** INPR Sverd
+** DONE Sverd
    Nærkamp: 1d8+1
-** INPR Spyd
+** DONE Spyd
    Nærkamp: 1d6+2
 ** TODO Bue
    Skyting: 1d8

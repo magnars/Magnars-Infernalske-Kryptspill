@@ -1,0 +1,5 @@
+* Lootkort med helsebrygg og rustninger
+* Dagshendelser som helt vanlige kort, nye FOTM og Gjengledere
+* Hendelseskort må være mye tydeligere på hva som skjer.
+  Eks: Rett i nærkamp? Kan du skyte tilbake? Alle skjelettene mot hydraen?
+* Tempeloffer for seid er døllt.

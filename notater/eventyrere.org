@@ -1,7 +1,5 @@
-Eventyrere
-----------
-
-* Barbar
+* Eventyrere
+** Barbar
   Slår 2d10 i angrep sammen med 1d8 i forsvar.
 
   +lvl: +1d10 i angrep
@@ -9,7 +7,7 @@ Eventyrere
   ◊ Kamprop: Eventyrerne får initiativet og barbaren får +1 resten av kampen.
    Virvelvind: Hver motstander slår sine terninger. Slå like mange d10 som motstandere og fordel en på hver.
 
-* Skytter
+** Skytter
   +1 i skyting
 
   +lvl: +1 i angrep i skyting
@@ -18,7 +16,7 @@ Eventyrere
    Lynskudd: Skyt et ekstra skudd øyeblikkelig etter det vanlige
   ◊ Triksskudd: Ufarliggjør en felle, med mindre du slår 1-er.
 
-* Tjuv
+** Tjuv
   +1 terning mot feller
   +2 i angrep i nærkamp
   +2 i forsvar mot skyting
@@ -28,7 +26,7 @@ Eventyrere
    Snok: Avslør ett fellerom fremover per level.
   ◊ Ryggdolking: Nærkampangrep før skyting med 1 terning per level. Skjelettet får ikke bruke noe av sitt utstyr. Sønderknuser.
 
-* Kriger
+** Kriger
   +1 i nærkamp
   +1 terning i nærkamp
   Kan bruke sverdterning etter terningsslaget
@@ -36,9 +34,9 @@ Eventyrere
   +lvl: +1 terning i nærkamp
 
    Brutalitet: Sønderknus et skjelett når krigeren vinner over det.
-   Dra pila ut av skulderen: +3 i forsvar mot skyting
+   Dra pila ut av skulderen: +3 i forsvar mot skyting etter terningsslaget.
 
-* Soldat
+** Soldat
   +3 i forsvar
 
   +lvl: +1 terning i kamp
@@ -46,9 +44,9 @@ Eventyrere
    Skjoldsmeis: Brukes på uavgjort. Skjelettet får -2 og kan bare forsvare seg neste kamprunde.
    Avvæpning: Brukes på uavgjort. Knus skjelettets våpen. Det må repareres med 1 ressurs en senere dag.
 
-* Prest
+** Prest
   Velsigner alle med omslag i kamp og mot seid.
-  Hver kan slå om igjen én 1-er én gang per kamp.
+  Hver kan slå én 1-er om igjen én gang per kamp.
 
   +lvl: slå om en ekstra gang per kamp
   +lvl: slå om høyere slag (lvl 2 = 2-ere)
@@ -56,16 +54,16 @@ Eventyrere
   ◊ Helbred: Gi annen eventyrer +2 i forsvar etter terningsslaget.
   ◊ Resurreksjon: Gjenoppliv en død eventyrer etter kamp eller felle.
 
-* Paladin
+** Paladin
   +1 i nærkamp
-  +2 i forsvar mot skyting
+  +1 i forsvar
 
   +lvl: +1 terning i nærkamp
 
   ◊ Blendende lys: Skjelettet kan ikke bruke sitt utstyr neste runde.
    Livsoffer: Ofrer livet for en annen eventyrer. På 5/6-er så overlever begge.
 
-* Munk
+** Munk
   Forviser et skjelett på starten av kampen. Det blir immunt.
   +1 i kamp
 
@@ -74,7 +72,7 @@ Eventyrere
    Velsignet våpen: +2 i angrep etter terningsslaget.
   ◊◊ Maktord: Sønderknus et tidligere forvist skjelett.
 
-* Magiker
+** Magiker
   5 mana
 
   +lvl: +3 mana
@@ -89,7 +87,7 @@ Eventyrere
 
   ◊ Usynlighet: Ta magikeren helt ut av kampen.
   ◊◊ Manaflom: Alle egenskaper koster 1 mana mindre resten av kampen.
-* Summoner
+** Summoner
   2 svermende minions
   Minions dør når summoner dør
 
@@ -98,3 +96,41 @@ Eventyrere
 
    Blodteft: Minions slåss med d10 resten av kampen.
   ◊◊ Summoning: Påkall 2 minions
+
+* Gjengledere (dag 17)
+** Elleville Vidar
+  En barbar som slår d20 i angrep, men bare d6 i forsvar.
+
+** Presise Pelle
+  En skytter som har byttet om kostnaden på Lynskudd og Triksskudd.
+
+** Tor Tortur
+  En tyv som kan bruke en kamptriksterning til å torturere et døende skjelett.
+  Det avslører alle rommene i krypten inkludert nekromanserens lokasjon.
+
+** Brutale Børge
+  En kriger som kan bruke Brutalitet med alle kamptriksterninger og på alle
+  døende skjeletter, uavhengig av hvem som drepte dem.
+
+** Sinna Sigvart
+  En soldat som får en ekstra terning resten av kampen hver gang det blir
+  uavgjort, og får +2 i forsvar av skjoldterninger.
+
+** Helende Helge
+  En prest som kan bruke Helbred med alle kamptriksterninger og i tillegg kan
+  bruke den på seg selv.
+
+** Borg Berge
+  En paladin som kan bruke Livsoffer for kun én knyttneve-terning og har
+  en ekstra +1 i forsvar.
+
+** Heilage Halvard
+  En munk uten +1 eller +terninger i kamp, men som kan forvise selv skjeletter
+  som tilsynelatende er immune.
+
+** Flyktige Frode
+  En magiker som kun betaler 1 mana for å bruke Usynlighet.
+
+** Kvestende Kåre
+  En summoner som svermer sammen med sine minions, med 1d10. Minions dør alltid
+  først.

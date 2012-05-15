@@ -15,8 +15,8 @@ hva skjelettene dine skal ta seg til den natten. De kan:
   2. Dra til landsbyen og fange folk.
   3. Bygge i krypten.
 
-*Ressurser* brukes for å kjøpe utstyr og feller. *Folk* ofres i skrekkelige
-seremonier, som oftest for å påkalle flere skjeletter. *Bygging i krypten* er
+**Ressurser** brukes for å kjøpe utstyr og feller. **Folk** ofres i skrekkelige
+seremonier, som oftest for å påkalle flere skjeletter. **Bygging i krypten** er
 essensielt for å overleve angrepene som vil komme.
 
 # Spillets gang
@@ -81,4 +81,27 @@ angriper. Dersom flere spillere overlevet angrepet, så vinner den aller mest so
 tok flest bønder.
 
 # Ett døgn
+
+## Dagens omstendigheter
+
+## Planlegging
+
+## Ute på arbeid
+
+## Hendelser i skogen
+
+## Ferdig med studier
+
+## Angrep?
+
 # Dine første feller
+
+## Vaktpost
+
+## Snubletråd
+
+## Fangehull
+
+## Snekkerbod
+
+## 2x Soverom
