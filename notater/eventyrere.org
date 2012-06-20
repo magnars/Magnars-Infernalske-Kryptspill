@@ -106,7 +106,7 @@
 
 ** Tor Tortur
   En tyv som kan bruke en kamptriksterning til å torturere et døende skjelett.
-  Det avslører alle rommene i krypten inkludert nekromanserens lokasjon.
+  Det avslører et av rommene i krypten (inkludert nekromanserens lokasjon).
 
 ** Brutale Børge
   En kriger som kan bruke Brutalitet med alle kamptriksterninger og på alle
