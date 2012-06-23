@@ -60,7 +60,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -529,7 +529,7 @@
        id="rect3642"
        style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
     <flowRoot
-       transform="translate(218.5,4)"
+       transform="translate(220.5,6.5)"
        style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif"
        id="flowRoot3714"
        xml:space="preserve"><flowRegion
@@ -540,9 +540,8 @@
            width="195.16147"
            id="rect3718" /></flowRegion><flowPara
          id="flowPara3213">- du må velge ja eller nei før du får vite hva som skjer</flowPara><flowPara
-         id="flowPara3330">- lootkortet trekkes tilfeldig</flowPara><flowPara
-         id="flowPara3337">- du kan faktisk velge et skjelett som ikke fant ressurser</flowPara><flowPara
-         id="flowPara3344">- da slipper du med skrekken</flowPara></flowRoot>    <flowRoot
+         id="flowPara3344">- du kan faktisk velge et skjelett som ikke fant ressurser,</flowPara><flowPara
+         id="flowPara3218">  da slipper du med skrekken</flowPara></flowRoot>    <flowRoot
        transform="translate(430.5,74)"
        style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif"
        id="flowRoot3733"
@@ -556,7 +555,8 @@
            style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
          id="flowPara3221">Et skjold er på vei til markedsplassen.</flowPara><flowPara
          id="flowPara3225" /><flowPara
-         id="flowPara3231">Du kan sikre deg skjoldet allerede nå ved å betale 3 ressurser.</flowPara></flowRoot>    <flowRoot
+         id="flowPara3231">Du kan sikre deg skjoldet allerede nå</flowPara><flowPara
+         id="flowPara3220">ved å betale 3 ressurser.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3236"
        style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif"
@@ -584,8 +584,8 @@
          id="flowPara3277">- du må velge ja eller nei før du får vite hva som skjer</flowPara><flowPara
          id="flowPara3457">- ja, du får naturligvis skjoldet</flowPara><flowPara
          id="flowPara3455">- hvis du ikke har noe ubygget, så mister du sjansen</flowPara></flowRoot>    <flowRoot
-       transform="translate(7.5,661.5)"
-       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif"
+       transform="translate(1,669)"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif"
        id="flowRoot3323"
        xml:space="preserve"><flowRegion
          id="flowRegion3325"><rect
@@ -593,22 +593,24 @@
            x="62.5"
            height="213"
            width="191"
-           id="rect3327" /></flowRegion><flowPara
+           id="rect3327"
+           style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
          id="flowPara3491">Skjelettene møter en trivelig alkymist</flowPara><flowPara
          id="flowPara3522">som selger et helsebrygg i bytte for</flowPara><flowPara
          id="flowPara3524">en ressurs.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3350"
-       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif"
-       transform="translate(216,667.5)"><flowRegion
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif"
+       transform="translate(215,661)"><flowRegion
          id="flowRegion3352"><rect
            id="rect3354"
            width="191"
            height="213"
            x="62.5"
-           y="87.362183" /></flowRegion><flowPara
-         id="flowPara3493">Et skjelett møter en portvakt som krever</flowPara><flowPara
-         id="flowPara3542">tjue sølvmynter med det samme. Han truer sint med spydet sitt.</flowPara><flowPara
+           y="87.362183"
+           style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         id="flowPara3493">Et skjelett møter en portvakt som</flowPara><flowPara
+         id="flowPara3542">krever tjue sølvmynter med det samme. Han truer sint med spydet sitt.</flowPara><flowPara
          id="flowPara3495" /><flowPara
          id="flowPara3497">Angrip!</flowPara></flowRoot>    <flowRoot
        transform="translate(218.5,603.5)"
@@ -636,7 +638,7 @@
            style="text-align:start;text-anchor:start" /></flowRegion><flowPara
          id="flowPara3507">Et skjelett har tatt med den lokale</flowPara><flowPara
          id="flowPara3558">verktøysmeden til krypten. Han vil</flowPara><flowPara
-         id="flowPara3560">kjøpe seg fra. Bruk én ressurs, og</flowPara><flowPara
+         id="flowPara3560">kjøpe seg fri. Bruk én ressurs, og</flowPara><flowPara
          id="flowPara3562">oppgrader en hakke, spade eller klubbe</flowPara><flowPara
          id="flowPara3564">til å bli skikkelig solid.</flowPara><flowPara
          id="flowPara3566" /><flowPara
@@ -684,7 +686,8 @@
            style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
          id="flowPara3309">Et spyd er på vei til markedsplassen.</flowPara><flowPara
          id="flowPara3311" /><flowPara
-         id="flowPara3313">Du kan sikre deg spydet allerede nå ved å betale 3 ressurser.</flowPara></flowRoot>    <flowRoot
+         id="flowPara3313">Du kan sikre deg spydet allerede nå</flowPara><flowPara
+         id="flowPara3223">ved å betale 3 ressurser.</flowPara></flowRoot>    <flowRoot
        transform="translate(6,312)"
        style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif"
        id="flowRoot3315"
@@ -941,7 +944,7 @@
            height="43.840622"
            x="60.811184"
            y="316.97113" /></flowRegion><flowPara
-         id="flowPara3534">- har du ingen ressurs, blir det ikke noe helsebrygg</flowPara><flowPara
+         id="flowPara3534">- har skjelettet ingen ressurs, blir det ikke noe helsebrygg</flowPara><flowPara
          id="flowPara3538">- du kan bare kjøpe det ene brygget han har</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3574"
