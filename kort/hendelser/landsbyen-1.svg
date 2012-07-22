@@ -37,8 +37,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2"
-     inkscape:cx="398.16818"
-     inkscape:cy="865.12616"
+     inkscape:cx="318.16818"
+     inkscape:cy="785.12616"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -55,7 +55,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -170,7 +170,7 @@
        id="rect4252"
        style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
     <flowRoot
-       transform="translate(3.847289,11.424888)"
+       transform="translate(3.847289,5.424888)"
        xml:space="preserve"
        id="flowRoot4274"
        style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif"><flowRegion
@@ -183,7 +183,9 @@
            style="text-align:start;text-anchor:start" /></flowRegion><flowPara
          id="flowPara3201">På toppen av den uferdige bymuren sitter to murere. De ser skjelettene på vei ut av byen, og starter å kaste murstein.</flowPara><flowPara
          id="flowPara4231" /><flowPara
-         id="flowPara4233">I all virraken klarer alle fangene untatt en (som fikk en murstein i huet) å rømme.</flowPara></flowRoot>    <rect
+         id="flowPara4233">I all virraken klarer alle fangene untatt en (som fikk en murstein i huet) å rømme.</flowPara><flowPara
+         id="flowPara3302" /><flowPara
+         id="flowPara3304">Hvis skjelettene har buer kan de skyte ned murerne, og få to ressurser med seg hjem.</flowPara></flowRoot>    <rect
        y="614.39532"
        x="57.798603"
        height="49.657955"
@@ -205,16 +207,9 @@
        id="rect4494"
        style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
     <rect
-       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="rect4534"
-       width="201.07401"
-       height="49.657955"
-       x="57.798603"
-       y="913.1571" />
-    <rect
-       y="783.57275"
+       y="760.07275"
        x="56.298603"
-       height="119.86781"
+       height="201.36781"
        width="201.07401"
        id="rect3385"
        style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
@@ -491,7 +486,7 @@
     <rect
        y="384.07278"
        x="486.27075"
-       height="224.8678"
+       height="56.367798"
        width="201.07401"
        id="rect3448"
        style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
@@ -665,7 +660,9 @@
            x="63.497055"
            y="112.93137"
            style="text-align:start;text-anchor:start" /></flowRegion><flowPara
-         id="flowPara3271">Skatten viser seg å være to lootkort du kan velge mellom.</flowPara></flowRoot>    <rect
+         id="flowPara3271"><flowSpan
+   style="font-weight:bold"
+   id="flowSpan3208">Ja:</flowSpan> Skatten viser seg å være to lootkort du kan velge mellom.</flowPara></flowRoot>    <rect
        y="382.49692"
        x="272.71173"
        height="60.867813"
@@ -706,8 +703,8 @@
            x="63.497055"
            y="112.93137"
            style="text-align:start;text-anchor:start" /></flowRegion><flowPara
-         id="flowPara3311">Etter skytingen roper han på en vakt. De svermer sammen.</flowPara><flowPara
-         id="flowPara3331">Vakta dør først.</flowPara></flowRoot>    <rect
+         id="flowPara3311">Etter skytingen roper han på to vakter. De svermer sammen.</flowPara><flowPara
+         id="flowPara3331">Vaktene dør først.</flowPara></flowRoot>    <rect
        y="553.49695"
        x="272.71173"
        height="52.867821"
@@ -740,34 +737,63 @@
            x="494.5"
            y="321.86218"
            style="font-size:6px" /></flowRegion><flowPara
-         id="flowPara3339">- Det at vakta dør først betyr at dersom løytnanten slår</flowPara><flowPara
-         id="flowPara3341">  lavest og burde dødd, så er det vakta som dør istedet.</flowPara><flowPara
+         id="flowPara3339">- Det at vaktene dør først betyr at dersom løytnanten slår</flowPara><flowPara
+         id="flowPara3341">  lavest og burde dødd, så er det en vakt som dør istedet.</flowPara><flowPara
          id="flowPara3343" /><flowPara
          id="flowPara3345">- Hvis kommandanten angriper, finn fram kommandant-</flowPara><flowPara
-         id="flowPara3347">  kortet. Alle skjeletter i landsbyen deltar i angrepet.</flowPara></flowRoot>    <flowRoot
+         id="flowPara3347">  kortet. Alle skjeletter i landsbyen deltar i angrepet.</flowPara></flowRoot>    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3246"
+       width="201.07401"
+       height="161.8678"
+       x="486.27075"
+       y="444.07278" />
+    <flowRoot
        style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif"
        id="flowRoot3349"
        xml:space="preserve"
-       transform="translate(435.84729,351.42489)"><flowRegion
+       transform="translate(430.84729,315.42489)"><flowRegion
          id="flowRegion3351"><rect
            style="text-align:start;text-anchor:start"
            y="112.93137"
            x="63.497055"
-           height="187.23491"
-           width="188.86304"
+           height="214.23492"
+           width="193.86304"
            id="rect3353" /></flowRegion><flowPara
-         id="flowPara3357">Mens landsbybeboerne er opptatt</flowPara><flowPara
-         id="flowPara3361">med muring, trening, drilling og</flowPara><flowPara
-         id="flowPara3363">smiing klarer et skjelett å stikke</flowPara><flowPara
-         id="flowPara3365">av med to av bøndenes ressurser.</flowPara></flowRoot>    <rect
+         id="flowPara3216"
+         style="font-size:9px" /><flowPara
+         id="flowPara3218"
+         style="font-size:9px" /><flowPara
+         id="flowPara3220"
+         style="font-size:9px"><flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Dice;-inkscape-font-specification:Dice Medium"
+   id="flowSpan3226">11</flowSpan>: Skjelettet ramler ned i en sjakt og bruker neste runde på å komme seg opp.</flowPara><flowPara
+         style="font-size:9px"
+         id="flowPara3228" /><flowPara
+         style="font-size:9px"
+         id="flowPara3230">Under 7: Skjelettet finner 2 ressurser.</flowPara><flowPara
+         style="font-size:9px"
+         id="flowPara3232" /><flowPara
+         style="font-size:9px"
+         id="flowPara3234">Akkurat 7: Skjelettet finner et bra våpen.</flowPara><flowPara
+         style="font-size:9px"
+         id="flowPara3236" /><flowPara
+         style="font-size:9px"
+         id="flowPara3238">Over 7: Velg blant 7 lootkort.</flowPara><flowPara
+         style="font-size:9px"
+         id="flowPara3240" /><flowPara
+         style="font-size:9px"
+         id="flowPara3242"><flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Dice;-inkscape-font-specification:Dice Medium"
+   id="flowSpan3244">66</flowSpan>: Vanvittig flaks, skjelettet finner kommandantens magiske gjenstand, ubevoktet i et svakt øyeblikk av hans (snart demoterte) majorgeneral.  </flowPara></flowRoot>    <rect
        style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect3367"
        width="201.07401"
-       height="93.367813"
+       height="72.367813"
        x="56.298603"
        y="683.57275" />
     <flowRoot
-       transform="translate(3.34729,584.92489)"
+       transform="translate(3.34729,574.92489)"
        xml:space="preserve"
        id="flowRoot3369"
        style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif"><flowRegion
@@ -786,16 +812,44 @@
        style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif"
        id="flowRoot3387"
        xml:space="preserve"
-       transform="translate(3.34729,680.92489)"><flowRegion
+       transform="translate(3.84729,658.42489)"><flowRegion
          id="flowRegion3389"><rect
            style="text-align:start;text-anchor:start"
            y="112.93137"
            x="63.497055"
-           height="187.23491"
-           width="188.86304"
+           height="187.23492"
+           width="197.86304"
            id="rect3391" /></flowRegion><flowPara
-         id="flowPara3393">Skatten viser seg å være</flowPara><flowPara
-         id="flowPara3395">et helsebrygg.</flowPara></flowRoot>    <flowRoot
+         style="font-size:9px;font-weight:bold"
+         id="flowPara3235">Ja: <flowSpan
+   style="font-size:9px;font-weight:normal"
+   id="flowSpan3232">Før fangen slippes fri viser han skjelettene en solid kiste. Slå 2d6.</flowSpan></flowPara><flowPara
+         style="font-size:9px;font-weight:bold"
+         id="flowPara3241" /><flowPara
+         style="font-size:9px;font-weight:normal"
+         id="flowPara3243"><flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Dice;-inkscape-font-specification:Dice Medium"
+   id="flowSpan3254">11</flowSpan>: Skjelettene får ikke opp kista.</flowPara><flowPara
+         style="font-size:9px;font-weight:normal"
+         id="flowPara3258" /><flowPara
+         style="font-size:9px;font-weight:normal"
+         id="flowPara3245">Under 7: I kista er en giftflaske.</flowPara><flowPara
+         style="font-size:9px;font-weight:normal"
+         id="flowPara3268" /><flowPara
+         style="font-size:9px;font-weight:normal"
+         id="flowPara3260">Akkurat 7: I kista er et helsebrygg.</flowPara><flowPara
+         style="font-size:9px;font-weight:normal"
+         id="flowPara3249"></flowPara><flowPara
+         style="font-size:9px;font-weight:normal"
+         id="flowPara3270">Over 7: I kista er en giftflaske og et helsebygg.</flowPara><flowPara
+         style="font-size:9px;font-weight:normal"
+         id="flowPara3252"><flowSpan
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Dice;-inkscape-font-specification:Dice Medium"
+           id="flowSpan3256"></flowSpan></flowPara><flowPara
+         style="font-size:9px;font-weight:normal"
+         id="flowPara3264"><flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Dice;-inkscape-font-specification:Dice Medium"
+   id="flowSpan3266">66</flowSpan>: I kista er det giftflasker og helsebrygg, til sammen 4. Velg sammensetting selv. </flowPara></flowRoot>    <flowRoot
        style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif"
        id="flowRoot3397"
        xml:space="preserve"
@@ -830,7 +884,7 @@
            y="112.93137"
            style="text-align:start;text-anchor:start" /></flowRegion><flowPara
          id="flowPara3447">3 ekstra bønder styrter ut for</flowPara><flowPara
-         id="flowPara3458">å hjelpe.</flowPara></flowRoot>    <rect
+         id="flowPara3458">å hjelpe, og de svermer skjelettene sammen.</flowPara></flowRoot>    <rect
        y="832.33453"
        x="271.39764"
        height="71.367828"
@@ -886,5 +940,19 @@
            width="188.86304"
            id="rect3513" /></flowRegion><flowPara
          id="flowPara3519">I brakka finner skjelettene en</flowPara><flowPara
-         id="flowPara3526">ganske stilig ringbrynje.</flowPara></flowRoot>  </g>
+         id="flowPara3526">ganske stilig ringbrynje.</flowPara></flowRoot>    <flowRoot
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif"
+       id="flowRoot3286"
+       xml:space="preserve"
+       transform="translate(431.34729,274.92489)"><flowRegion
+         id="flowRegion3288"><rect
+           style="text-align:start;text-anchor:start"
+           y="112.93137"
+           x="63.497055"
+           height="187.23491"
+           width="188.86304"
+           id="rect3290" /></flowRegion><flowPara
+         id="flowPara3294">Mens landsbybeboerne er opptatt</flowPara><flowPara
+         id="flowPara3298">med muring, trening, drilling og</flowPara><flowPara
+         id="flowPara3300">smiing sniker et skjelett seg rundt i leieren. Slå 2d6.</flowPara></flowRoot>  </g>
 </svg>
