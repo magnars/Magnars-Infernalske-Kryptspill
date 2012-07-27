@@ -13,8 +13,8 @@
    height="1052.3622047"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.0 r9654"
-   sodipodi:docname="loot-mal.svg">
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="2.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -55,7 +55,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -218,8 +218,8 @@
            x="57.495598"
            y="109.13376"
            style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Serif;-inkscape-font-specification:Serif" /></flowRegion><flowPara
-         id="flowPara3387"></flowPara><flowPara
-         id="flowPara4490"></flowPara><flowPara
+         id="flowPara3387" /><flowPara
+         id="flowPara4490" /><flowPara
          id="flowPara4492">Rustning.</flowPara><flowPara
          id="flowPara4494">+1 i forsvar én </flowPara><flowPara
          id="flowPara4496">gang per kamp.</flowPara></flowRoot>    <rect
@@ -253,8 +253,8 @@
            x="57.495598"
            y="109.13376"
            style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Serif;-inkscape-font-specification:Serif" /></flowRegion><flowPara
-         id="flowPara3416"></flowPara><flowPara
-         id="flowPara4503"></flowPara><flowPara
+         id="flowPara3416" /><flowPara
+         id="flowPara4503" /><flowPara
          id="flowPara4505">Rustning.</flowPara><flowPara
          id="flowPara4507">+1 i forsvar én </flowPara><flowPara
          id="flowPara4509">gang per kamp.</flowPara></flowRoot>    <rect
@@ -288,8 +288,8 @@
            x="57.495598"
            y="109.13376"
            style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Serif;-inkscape-font-specification:Serif" /></flowRegion><flowPara
-         id="flowPara3469"></flowPara><flowPara
-         id="flowPara4516"></flowPara><flowPara
+         id="flowPara3469" /><flowPara
+         id="flowPara4516" /><flowPara
          id="flowPara4518">Rustning.</flowPara><flowPara
          id="flowPara4520">+1 i forsvar én </flowPara><flowPara
          id="flowPara4522">gang per kamp.</flowPara></flowRoot>    <rect
@@ -323,8 +323,8 @@
            height="90.958099"
            width="132.82684"
            id="rect3481" /></flowRegion><flowPara
-         id="flowPara3487"></flowPara><flowPara
-         id="flowPara4529"></flowPara><flowPara
+         id="flowPara3487" /><flowPara
+         id="flowPara4529" /><flowPara
          id="flowPara4531">Rustning.</flowPara><flowPara
          id="flowPara4533">+1 i forsvar én </flowPara><flowPara
          id="flowPara4535">gang per kamp.</flowPara></flowRoot>    <rect
@@ -454,35 +454,7 @@
        height="138.68602"
        x="54.946659"
        y="680.38953" />
-    <text
-       sodipodi:linespacing="125%"
-       id="text3635"
-       y="121.24091"
-       x="-750.04584"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Apple Chancery;-inkscape-font-specification:Apple Chancery Bold"
-       xml:space="preserve"
-       transform="matrix(0,-1,1,0,0,0)"><tspan
-         y="121.24091"
-         x="-750.04584"
-         sodipodi:role="line"
-         id="tspan3637">Bue</tspan></text>
-    <flowRoot
-       transform="matrix(0,-1,1,0,24.217276,873.17605)"
-       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif"
-       id="flowRoot3639"
-       xml:space="preserve"><flowRegion
-         id="flowRegion3641"><rect
-           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Serif;-inkscape-font-specification:Serif"
-           y="109.13376"
-           x="57.495598"
-           height="90.958099"
-           width="132.82684"
-           id="rect3643" /></flowRegion><flowPara
-         id="flowPara3645" /><flowPara
-         id="flowPara3647" /><flowPara
-         id="flowPara3649">Våpen.</flowPara><flowPara
-         id="flowPara5454">Skyting.</flowPara><flowPara
-         id="flowPara5456">d8</flowPara></flowRoot>    <rect
+    <rect
        y="679.57544"
        x="270.67383"
        height="138.68602"
@@ -513,8 +485,8 @@
            x="57.495598"
            y="109.13376"
            style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Serif;-inkscape-font-specification:Serif" /></flowRegion><flowPara
-         id="flowPara3667"></flowPara><flowPara
-         id="flowPara5463"></flowPara><flowPara
+         id="flowPara3667" /><flowPara
+         id="flowPara5463" /><flowPara
          id="flowPara5465">Våpen.</flowPara><flowPara
          id="flowPara5467">Skyting.</flowPara><flowPara
          id="flowPara5469">d8</flowPara></flowRoot>    <rect
@@ -548,8 +520,8 @@
            x="57.495598"
            y="109.13376"
            style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Serif;-inkscape-font-specification:Serif" /></flowRegion><flowPara
-         id="flowPara3687"></flowPara><flowPara
-         id="flowPara5476"></flowPara><flowPara
+         id="flowPara3687" /><flowPara
+         id="flowPara5476" /><flowPara
          id="flowPara5478">Våpen.</flowPara><flowPara
          id="flowPara5480">Skyting.</flowPara><flowPara
          id="flowPara5482">d8</flowPara></flowRoot>    <rect
@@ -583,8 +555,8 @@
            x="57.495598"
            y="109.13376"
            style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Serif;-inkscape-font-specification:Serif" /></flowRegion><flowPara
-         id="flowPara3709"></flowPara><flowPara
-         id="flowPara5489"></flowPara><flowPara
+         id="flowPara3709" /><flowPara
+         id="flowPara5489" /><flowPara
          id="flowPara5491">Våpen.</flowPara><flowPara
          id="flowPara5493">Skyting.</flowPara><flowPara
          id="flowPara5495">d8</flowPara></flowRoot>    <rect
@@ -618,8 +590,8 @@
            height="90.958099"
            width="132.82684"
            id="rect3721" /></flowRegion><flowPara
-         id="flowPara3727"></flowPara><flowPara
-         id="flowPara5502"></flowPara><flowPara
+         id="flowPara3727" /><flowPara
+         id="flowPara5502" /><flowPara
          id="flowPara5504">Våpen.</flowPara><flowPara
          id="flowPara5506">Skyting.</flowPara><flowPara
          id="flowPara5508">d8</flowPara></flowRoot>    <g
@@ -827,7 +799,7 @@
          id="flowPara5543" /><flowPara
          id="flowPara5551">En av eventyrerne</flowPara><flowPara
          id="flowPara5577">har overlevd. Såvidt.</flowPara><flowPara
-         id="flowPara5587"></flowPara><flowPara
+         id="flowPara5587" /><flowPara
          id="flowPara5591">Putt ham</flowPara><flowPara
          id="flowPara5579">i fangehullet.</flowPara><flowPara
          id="flowPara5581" /><flowPara
