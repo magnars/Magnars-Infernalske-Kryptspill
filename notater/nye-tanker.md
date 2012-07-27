@@ -1,6 +1,6 @@
 # Nye regler
 
-* En sverm starter med max 4, så øker antallet med én for hver kamprunde mot
+* En sverm starter med max 5, så øker antallet med én for hver kamprunde mot
   samme fiende.
 
 * Studie, bibliotek etc gir seidekort på slutten av den runden der det er nok
@@ -14,8 +14,12 @@
 * Kampøks/hellebard/langsverd lar deg slå om igjen én gang per kamp. Hva slaget
   var er irrelevant.
 
-* Det er max 20 bønder i rommet når feller utløses eller seid påvirker dem. Det
-  samme gjelder effekter som negativt påvirker bøndene.
+* Bøndene kommer i waves av 20. Første wave er d8, så d8+1, så d10, deretter
+  fortsetter det med d10, men startmengden i sverm øker hver gang (6, 7, 8 ...)
+
+* Skjeletter kan bare gi bort utstyr dersom det ikke går ut over deres effektivitet.
+  Det betyr at de beholder begge våpnene sine hvis de ikke har skjold, f.x.
+  De gir ikke bort bue fordi de har sverd.
 
 # Presisering
 

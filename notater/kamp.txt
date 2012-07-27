@@ -1,3 +1,20 @@
+Nye regler:
+
+ - Når du slår flere terninger så velger du fritt blant dem.
+   Det får påvirkning for levling av kriger fra 2->3 (lettere å bruke skjoldet)
+
+ - Kriger lvl 3->4 krever 3 fellede motstandere i nærkamp i 3 forskjellige kamper,
+   uten å tape selv i mellomtiden.
+
+ - Major: Våpen oppgraderer bare én av dine terninger. En lvl 3 kriger med øks får
+   altså slå 1d10 og 2d8.
+
+ - Dualwield: Kan bruke 2 våpen for å oppgradere 2 terninger. Kan da ikke bruke skjold,
+   men får spesialegenskaper fra begge (f.x. omslag to ganger med to bra våpen)
+
+--------------
+
+
 
 OBS! Ny grunnterning i kamp er d8
  - fordeler: +1 og +2 er ikke like dominerende --> ikke fullt så knekte eventyrere
