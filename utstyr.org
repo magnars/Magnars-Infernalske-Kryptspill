@@ -1,27 +1,27 @@
 #+TODO: TODO INPR DONE
 
-* Våpen [3/4]
+* Våpen [4/4]
 ** DONE Øks
    Nærkamp: 1d10
 ** DONE Sverd
    Nærkamp: 1d8+1
 ** DONE Spyd
    Nærkamp: 1d6+2
-** TODO Bue
+** DONE Bue
    Skyting: 1d8
-* Bra våpen [0/5]
-** TODO Kampøks
+* Bra våpen [5/5]
+** DONE Kampøks
    Nærkamp: 1d10
    Slå om igjen 1/2 én gang per kamp.
-** TODO Langsverd
+** DONE Langsverd
    Nærkamp: 1d8+1
    Slå om igjen 1/2 én gang per kamp.
-** TODO Hellebard
+** DONE Hellebard
    Nærkamp: 1d6+2
    Slå om igjen 1/2 én gang per kamp.
-** TODO Langbue
+** DONE Langbue
    Skyting: 1d10
-** TODO Armbrøst
+** DONE Armbrøst
    Skyting: 1d6+2
 * Rustning [0/6]
 ** TODO Hjelm
