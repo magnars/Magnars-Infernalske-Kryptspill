@@ -28,3 +28,13 @@
 
 * Skjeletter kan bare bytte hakke/spade/klubbe hvis de allerede har akkurat den
   samme.
+
+# Levling av skjeletter
+
+* Fra lvl 3 kriger kan man levle på en spesiell måte
+  - drep 3 motstandere i nærkamp i 3 forskjellige kamper uten å dø
+    -> Garvet kriger: +3d8 og +2 i forsvar mot bueskudd
+  - eller drep 5 motstandere i nærkamp i 5 forskjellige kamper uten å dø
+    -> Garvet våpenmester: +3d8 og kan oppgradere 2 terninger per våpen
+
+* For skyting bestemmes alle terningene i slaget av våpenet som brukes.
