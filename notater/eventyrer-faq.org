@@ -1,0 +1,8 @@
+* Den Falske Profet
+** En hjernevasket kan plasseres i fangehull for å få bonus, men er da ikke lengre hjernevasket.
+* Magiker
+** Kan ikke redde seg selv ved å ofre en annen.
+* Summoner
+** Imper er inntrengere, men ikke eventyrere.
+* Munk
+** Velsignet våpen fungerer bare på munkens eget våpen.

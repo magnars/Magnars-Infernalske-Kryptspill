@@ -14,12 +14,22 @@
 * Kampøks/hellebard/langsverd lar deg slå om igjen én gang per kamp. Hva slaget
   var er irrelevant.
 
-* Bøndene kommer i waves av 20. Første wave er d8, så d8+1, så d10, deretter
-  fortsetter det med d10, men startmengden i sverm øker hver gang (6, 7, 8 ...)
+* Bøndene kommer i waves av 20. Første wave er d8, så d8+1, så d10, så d10 med
+  startsverm på 8, så d10 med startsverm på 10.
 
 * Skjeletter kan bare gi bort utstyr dersom det ikke går ut over deres effektivitet.
   Det betyr at de beholder begge våpnene sine hvis de ikke har skjold, f.x.
   De gir ikke bort bue fordi de har sverd.
+
+* Du kan planlegge ett hakk lenger innover i krypten enn du har bygd ferdig ved
+  å legge på en ekstra byggestein.
+
+* Sverm er frivillig. Den starter på 6, og øker så til 8, så til 10. Deretter 10.
+
+* Bønder som slår 1 dør ikke - de flykter. De er ute av kampen, og teller
+  ikke som kills.
+
+* Ny wave: ny bodyguard (om den forrige er død)
 
 # Presisering
 
@@ -28,6 +38,15 @@
 
 * Skjeletter kan bare bytte hakke/spade/klubbe hvis de allerede har akkurat den
   samme.
+
+* Forsvar avgjør hvem som targetes i en sverm
+
+* Hvis du brukte skjold forrige runde, og så dreper en motstander den neste, så
+  levler du fra kriger 2 til 3. Ikke noe vanskeligere enn det.
+
+* Rekkefølgen av eventyrere låses ved start av angrepet.
+
+* Et skjelett kan ikke dø og levle samtidig.
 
 # Levling av skjeletter
 
