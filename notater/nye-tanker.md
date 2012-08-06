@@ -1,6 +1,6 @@
 # Nye regler
 
-* En sverm starter med max 5, så øker antallet med én for hver kamprunde mot
+* En sverm starter med max 6, så øker antallet med to for hver kamprunde mot
   samme fiende.
 
 * Studie, bibliotek etc gir seidekort på slutten av den runden der det er nok
@@ -24,10 +24,9 @@
 * Du kan planlegge ett hakk lenger innover i krypten enn du har bygd ferdig ved
   å legge på en ekstra byggestein.
 
-* Sverm er frivillig. Den starter på 6, og øker så til 8, så til 10. Deretter 10.
-
-* Bønder som slår 1 dør ikke - de flykter. De er ute av kampen, og teller
-  ikke som kills.
+* Bønder er noen reddharer. De som slår 1 dør ikke - de løper for livet istedet.
+  Resultatet er at for hver 1-er så reduseres svermen neste runde med 1, men de
+  dør ikke, og tar altså motet til seg og fortsetter kampen.
 
 * Ny wave: ny bodyguard (om den forrige er død)
 
