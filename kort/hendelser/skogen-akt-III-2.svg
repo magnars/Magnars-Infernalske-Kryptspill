@@ -38,7 +38,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="2"
      inkscape:cx="398.16818"
-     inkscape:cy="272.62616"
+     inkscape:cy="512.62616"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -617,7 +617,7 @@
            id="rect3239" /></flowRegion><flowPara
          id="flowPara3253">Skjelettene kjenner underlige lukter og hører klirring i glass. Det kommer fra et falleferdig skur. &quot;Velkommen til Aslaugs Alkymi Affære&quot; står det.</flowPara><flowPara
          id="flowPara3282" /><flowPara
-         id="flowPara3284">Skjelettene kan kjøpe giftflasker og helsebrygg for to ressurser stykket.</flowPara></flowRoot>    <flowRoot
+         id="flowPara3284">Skjelettene kan kjøpe opp til fire giftflasker og helsebrygg for en ressurser stykket.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3286"
        style="font-size:6px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif"
@@ -641,7 +641,7 @@
            y="739.86218"
            style="font-size:10px;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          id="flowPara3309">En seidebok er på vei til markedsplassen.</flowPara><flowPara
-         id="flowPara3311"></flowPara><flowPara
+         id="flowPara3311" /><flowPara
          id="flowPara3313">Du kan sikre deg boka allerede nå</flowPara><flowPara
          id="flowPara3315">ved å betale 5 ressurser.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
@@ -656,7 +656,7 @@
            y="915.86218" /></flowRegion><flowPara
          id="flowPara3323">- du kan bruke både ressurer skjelettene har samlet i natt</flowPara><flowPara
          id="flowPara3325">  og de du har hjemme i krypten.</flowPara><flowPara
-         id="flowPara3327"></flowPara><flowPara
+         id="flowPara3327" /><flowPara
          id="flowPara3329">- kjøpet av en seidebok betyr at du får trekke et </flowPara><flowPara
          id="flowPara3331">  tilfeldig seidekort fra bunken.</flowPara></flowRoot>    <flowRoot
        transform="translate(209.5,-0.5)"
@@ -671,7 +671,7 @@
            width="183.5"
            id="rect3337" /></flowRegion><flowPara
          id="flowPara3339">En langbue er på vei til markedsplassen.</flowPara><flowPara
-         id="flowPara3341"></flowPara><flowPara
+         id="flowPara3341" /><flowPara
          id="flowPara3343">Du kan sikre deg bua allerede nå</flowPara><flowPara
          id="flowPara3345">ved å betale 3 ressurser.</flowPara></flowRoot>    <flowRoot
        transform="translate(223,9.5)"
@@ -698,7 +698,7 @@
            y="739.86218"
            style="font-size:10px;text-align:center;text-anchor:middle" /></flowRegion><flowPara
          id="flowPara3378">En pakke med skjold og hjelm er på vei til markedsplassen.</flowPara><flowPara
-         id="flowPara3380"></flowPara><flowPara
+         id="flowPara3380" /><flowPara
          id="flowPara3382">Du kan sikre deg begge allerede nå</flowPara><flowPara
          id="flowPara3384">ved å betale 4 ressurser.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
