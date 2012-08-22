@@ -7,8 +7,6 @@
 * Bønder som slår 1 flykter midlertidig istedet for å dø i svermen.
   Neste svermangrep reduseres med så mange.
 
-* Fjerner hendelseskort i skogen som krever eventyrere
-
 # Nye regler
 
 * En sverm starter med max 6, så øker antallet med to for hver kamprunde mot
