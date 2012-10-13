@@ -1,0 +1,38 @@
+* Expansions
+
+Når man starter spillet, kan man bli enige om man vil ha et vanlig spill
+som spilles fortere (gjerne 3 timer) - eller et lengre spill (kan bli 5 timer).
+
+Med et lengre spill, så vil man etter det første angrepet (på dag 11) trekke
+et kort av tre. Disse:
+
+** Forsterkninger
+   Bøndene har begynt å bygge forsterkninger, takket være en
+   handlekraftig kommandant som har kommet til byen. Det er hendelser i
+   byen, og målet er å ta ut kommandanten.
+
+   Hvis kommandanten ikke blir drept, så vil bøndene som slår 1 og 2
+   verken flykte eller dø under angrepet siste dag. De er bare immune.
+
+** Dypet
+   På dag 11-17 skjer det små hendelser som varsler om at noe går galt
+   i krypten. På dag 18 viser det seg at de har gravd for dypt, og skjelettene
+   kan nå utforske Dypet.
+
+*** Kort for 11-17 (må være minst 10 for å få variasjon)
+**** En spåmann kommer til krypten med elleville advarsler.
+**** Trommer kan høres i krypten. Skjeletter uten våpen tør ikke gå ned der.
+**** Et skjelettene har funnet en krystall i det innerste rommet.
+
+** Hydraen
+   En skrekkelig hydra har våknet til live i skogen. Fjern alle Akt I kortene,
+   og i tillegg til de vanlige skogshendelsene for Akt II, legg også til
+   de 18 hydrakortene. Selveste hydrakortet legges også inn i Akt III - og
+   hvis ingen har møtt hydraen innen dag 22, så kommer den da.
+
+*** Hendelseskort for Akt II Hydra:
+**** Lik etter karavane som har blitt angrepet av hydraen
+**** Navngitte figurer ute på jakt etter hydraen
+**** Eventyrere på jakt etter hydraen
+     Da blir det faste (en prest og en barbar)
+****

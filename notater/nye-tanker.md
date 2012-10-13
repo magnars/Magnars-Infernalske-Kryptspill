@@ -1,8 +1,18 @@
 # Enda nyere regler
 
-* For å få raskere spilletid dropper vi dagshendelser.
+* Hvis du slår [1] i bygging, bruker hakke, og får [456] så levler skjelettet
+  til en byggeleder.
 
-* Dypet er tilgjengelig fra dag 18.
+  - byggelederen legger til en ekstra byggeterning, og tar så bort den laveste
+    terningen etter slaget.
+
+  - dette gjør det vanskeligere å få 2 byggeledere, noe som er meninga.
+
+  - kan levle videre til Byggmester eller Byggingeniør
+
+* Uferdige rom kan alltid taes opp igjen på hånda.
+
+* For å få raskere spilletid dropper vi dagshendelser.
 
 * Bønder som slår 1 flykter midlertidig istedet for å dø i svermen.
   Neste svermangrep reduseres med så mange.
