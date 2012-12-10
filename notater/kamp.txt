@@ -1,5 +1,10 @@
 Nye regler:
 
+ - Buer som skyter inn i svermer med motstandere. Det må være lettere
+   enn det er nå. Så fra nå av slår svermer seks terninger i forsvar
+   (begrenset av antall gjenværende såklart), og forsvarer seg med den
+   laveste av de miderste verdiene.
+
  - Når du slår flere terninger så velger du fritt blant dem.
    Det får påvirkning for levling av kriger fra 2->3 (lettere å bruke skjoldet)
 
