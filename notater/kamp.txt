@@ -31,8 +31,7 @@ OBS! Ny grunnterning i kamp er d8
 Rekkefølge:
  - Kampen starter med ranged:
      - de med bue får skyte en gang
-     - den beste skytteren får skyte først.
-         - beste avhenger av level - lik level = eventyrer før skjelett
+     - alle skyter på likt. Declare targets først.
  - Deretter nærkampsrunder til en side har tapt:
      - den med initiativ velger hvem som slåss mot hvem
      - eventyrere med initiativ kan velge å bruke én "angrep:"-egenskap

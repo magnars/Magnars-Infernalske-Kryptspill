@@ -1,10 +1,12 @@
 * MIX - Magnars Infernalske Kryptspill
 
-  MIX er et brettspill. Du er en nekromanser som påkaller skjeletter til å
-  gjennomføre dine onde planer. De slåss og samler ressurser i skogen, fanger folk
-  i landsbyen og bygger din mørke krypt full av feller. I løpet av spillets gang
-  kommer eventyrere for å stoppe deg, og til slutt en skare ilske bønder med
-  fakler og høygafler som har fått nok av din plagsomme tilstedeværelse.
+  MIX er et brettspill for to personer. Du er en nekromanser som
+  påkaller skjeletter til å gjennomføre dine onde planer. De slåss og
+  samler ressurser i skogen, fanger folk i landsbyen og bygger din
+  mørke krypt full av feller. I løpet av spillets gang kommer
+  eventyrere for å stoppe deg, og til slutt en skare ilske bønder med
+  fakler og høygafler som har fått nok av din plagsomme
+  tilstedeværelse.
 
 * Grove trekk
 
@@ -19,8 +21,37 @@
   seremonier, som oftest for å påkalle flere skjeletter. **Bygging i krypten** er
   essensielt for å overleve angrepene som vil komme.
 
+* Sette opp spillet
+** Sett opp sentralt spilleområde:
+  - Plasser terninger, steiner og ressurser i lett rekkevidde for begge spillere.
+  - Stokk sammen alle Akt 1 skogshendelser og ha lett tilgjengelig.
+  - Legg alle våpenbrikker (spyd, sverd, øks og bue) i en skål.
+  - Legg alle utstyrsbrikker (hakke, spade, klubbe) i en annen skål.
+  - Legg resten av brikkene i en tredje skål.
+  - Legg ut den tomme markedsplassen.
+  - Gi en av spillerne den store dagsterningen (20-sider).
+  - Resten av kortene kan plasseres perifert og finnes fram ved behov.
+** Del ut til begge spillere:
+  - 2 tilfeldige nekromansere (velg én av dem)
+  - 2 tilfeldige innganger (velg én av dem)
+  - 3 skjeletter
+  - 1 sett med startrom (markert med stjerne)
+  - 1 tilfeldig våpen (gi til ett av skjelettene)
+  - 7 ressurser
+* Hva er alle disse tingene?
+  - **Nekromanseren** er din avatar i spillet. Alle nekromansere har
+    unike egenskaper.
+  - **Inngangen** er starten på krypten der du holder til, og er det
+    første rommet inntrengere ankommer.
+  - **Skjelettene** gjør alt arbeidet, samler ressurser, mennesker og
+    bygger på krypten.
+  - **Romkort** blir en del av krypten når skjelettene har bygget dem
+    ferdig.
+  - **Utstyr** som hakke, spade og klubbe gjør arbeidet lettere for
+    skjelettene.
+  - **Våpen, rustning og andre brikker** hjelper skjelettene i kamp.
+  - **Ressurser** brukes til å kjøpe romkort og utstyr.
 * Spillets gang
-
 ** Starten
 
    Hver spiller starter med syv ressurser, noen grunnleggende felleidéer, en
