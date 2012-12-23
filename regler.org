@@ -17,7 +17,7 @@
   2. Dra til landsbyen og fange folk.
   3. Bygge i krypten.
 
-  *Ressurser* brukes for å kjøpe utstyr og feller. *Folk* ofres i skrekkelige
+  *Ressurser* brukes for å kjøpe verktøy og feller. *Folk* ofres i skrekkelige
   seremonier, som oftest for å påkalle flere skjeletter. *Bygging i krypten* er
   essensielt for å overleve angrepene som vil komme.
 
@@ -30,7 +30,7 @@
 
 ** Natt 1 til 11
 
-   Du samler ressurser for å kjøpe utstyr og feller, og prøver å få bygd en krypt
+   Du samler ressurser for å kjøpe verktøy og feller, og prøver å få bygd en krypt
    som kan motstå det første angrepet. Samtidig må du bygge et fangehull, slik at
    du kan starte å samle folk for å påkalle flere skjeletter.
 
@@ -50,7 +50,7 @@
 ** Natt 12 til 17
 
    Skjelettene slikker sårene etter angrepet, men det er bare seks netter til det
-   neste. Det må bygges nye, bedre feller, skjelettene må skaffe bedre utstyr, og du
+   neste. Det må bygges nye, bedre feller, skjelettene må skaffe bedre verktøy, og du
    burde kanskje ha noen flere skjeletter også. Det er generelt sett alt for dårlig
    tid.
 
@@ -58,7 +58,7 @@
 
    Dagen etter den 17. natten angriper fem enda kvassere eventyrere. For å overleve
    det må du enten ha bygget et nytt oppholdsrom bak enda flere feller, ha studert
-   fram noen skrekkelige seid, eller ha trent opp og skaffet bra utstyr til
+   fram noen skrekkelige seid, eller ha trent opp og skaffet bra verktøy til
    skjelettene dine.
 
 ** Natt 18 til 23
@@ -88,7 +88,7 @@
   - Plasser terninger, steiner og ressurser i lett rekkevidde for begge spillere.
   - Stokk sammen alle Akt 1 skogshendelser og ha lett tilgjengelig.
   - Legg alle våpenbrikker (spyd, sverd, øks og bue) i en skål.
-  - Legg alle utstyrsbrikker (hakke, spade, klubbe) i en annen skål.
+  - Legg alle verktøybrikker (hakke, spade, klubbe) i en annen skål.
   - Legg resten av brikkene i en tredje skål.
   - Legg ut den tomme markedsplassen.
   - Gi en av spillerne den store dagsterningen (20-sider).
@@ -119,16 +119,71 @@ legges tilbake i esken - de er ikke i bruk denne gangen.
   - *Romkort* blir en del av krypten når skjelettene har bygget dem
     ferdig.
 
-  - *Utstyr* som hakke, spade og klubbe gjør arbeidet lettere for
+  - *Verktøy* som hakke, spade og klubbe gjør arbeidet lettere for
     skjelettene.
 
   - *Våpen, rustning og andre brikker* hjelper skjelettene i kamp.
 
-  - *Ressurser* brukes til å kjøpe romkort og utstyr.
+  - *Ressurser* brukes til å kjøpe romkort og verktøy.
 
 * Ett døgn
+
+  Spillet består av 23 runder, eller døgn. På noen av disse dagene blir
+  krypten angrepet, ellers er de likt oppbygget.
+
 ** Planlegging
+
+   Dette er delen av runden hvor du tar de store avgjørelsene. Det
+   viktigste du gjør er å bestemme hva alle skjelettene skal gjøre
+   denne dagen.
+
+   - Legg en *byggestein* foran skjelettet for å sende det inn i for å
+     bygge på krypten.
+
+   - Legg en *ressurs* foran skjelettet for å sende det ut i skogen
+     for å samle ressurser.
+
+   - Legg en *fangestein* foran skjelettet for å sende det til
+     landsbyen for å fange folk til ditt fangehull.
+
+   Du bruker også planleggingsfasen til andre ting:
+
+   - Kjøpe verktøy (hakke, spade, klubbe) for 3 ressurser.
+
+   - Kjøpe romkort for 3 ressurser.
+
+   - Planlegge bygging i krypten.
+
+   - Ofre fem fanger for å påkalle et nytt skjelett (krever bistand
+     fra 2 skjeletter).
+
+   - Legge en studiestein på et studie eller bibliotek.
+
+   - Avholde en seremoni med et seidekort.
+
 ** Ute på arbeid
+
+   Alle skjelettene som er ute på arbeid slår 1d6. Slå alle terningene
+   på likt, blå for bygging, grønne for ressurser, hvite for fanger.
+
+   - Skjeletter med *hakke* kan slå om igjen én 1-er på byggeterning.
+
+   - Skjeletter med *spade* kan slå om igjen én 1-er på ressursterning.
+
+   - Skjeletter med *klubbe* kan slå om igjen én 1-er på fangeterning.
+
+  Deretter halverer og runder de ned tallet på terningen. Altså får
+  man for eksempel i skogen:
+
+  - 1 på terningen: 0 ressurser
+  - 2 på terningen: 1 ressurser
+  - 3 på terningen: 1 ressurser
+  - 4 på terningen: 2 ressurser
+  - 5 på terningen: 2 ressurser
+  - 6 på terningen: 3 ressurser
+
+  La ressursene ligge på skjelettene, for nå skjer det saker i skogen.
+
 ** Hendelser i skogen
 
 ** Ferdig med studier
