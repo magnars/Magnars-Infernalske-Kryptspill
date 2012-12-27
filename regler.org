@@ -234,45 +234,75 @@ legges tilbake i esken - de er ikke i bruk denne gangen.
   For å finne deg må inntrengerne begi seg gjennom krypten, komme seg
   forbi feller og slåss mot skjelettene som står på vakt.
 
+*** Forskjellige typer feller
+
+    De aller fleste feller fungerer bare én gang per angrep. Og det er
+    for det meste greit mot eventyrerne. Men bøndene kommer i bølge
+    etter bølge. Da er det kjekt med feller som er *Alltid aktive*.
+    Hver gang inntrengere går inn i et slikt rom, utløses fella på
+    nytt.
+
+    Skjeletter står på vakt i en god del rom. Du velger selv hvilke og
+    hvor mange skjeletter som er tilstede i det inntrengerne ankommer
+    rommet. Velg blant skjelettene som er uthvilte. Hvis du ikke har
+    noen uthvilte skjeletter, kan du velge blant de som er utslått.
+    Men taper de igjen, så blir de sønderknust - og kan ikke velges
+    på nytt.
+
+    Noen rom utløses i det inntrengerne kommer inn i naborommet. Flipp
+    rommet opp når inntrengerne kommer inn i rommet ved siden av. Du kan
+    selv velge hvilket av de to kortene som får effekt først.
+
+    Andre rom er *Blindganger*. Du kan ikke bygge rom bakenfor en
+    blindgang.
+
+    Det er også viktig å ha et *Oppholdsrom*. Det er i disse du kan
+    oppholde deg under angrepet. Mer om det i neste avsnitt.
+
+    Noen få oppholdsrom er også *Templer*. Du kan bare bygge ett
+    tempel i din krypt. Et tempel lar deg ofre fanger (et såkalt
+    Tempeloffer) for å gjøre Kampseid enda bedre, dersom du bruker det
+    som oppholdsrom.
+
 *** Oppgjør i oppholdsrommet
 
-  Dersom de finner deg, så har du i oppholdsrommet ditt med deg ett av
-  skjeletten dine som livvakt. Det er nå du kan bruke Kampseid hvis du
-  har det. Så lenge livvakten er i live, kan du ikke dø.
+    Dersom de finner deg, så har du i oppholdsrommet ditt med deg ett av
+    skjelettene dine som livvakt. Det er nå du kan bruke Kampseid hvis du
+    har det. Så lenge livvakten er i live, kan du ikke dø.
 
-  Skulle inntrengerne klare å ta livet av deg, så sier de seg fornøyd
-  og forlater krypten. Du har et siste triks i ermet. Ved å trekke
-  livskraften ut av to av dine skjeletter kommer du deg til hektene
-  igjen. De to skjelettene sønderknuses i prosessen.
+    Skulle inntrengerne klare å ta livet av deg, så sier de seg fornøyd
+    og forlater krypten. Du har et siste triks i ermet. Ved å trekke
+    livskraften ut av to av dine skjeletter kommer du deg til hektene
+    igjen. De to skjelettene sønderknuses i prosessen.
 
 *** Dag 11: Tre eventyrere
 
-   Trekk tre tilfeldige eventyrere og slå 5 kamptriksterninger for
-   dem. De er i utgangspunktet level 1, men kan få ekstra levels fra
-   kamptriksterningene.
+    Trekk tre tilfeldige eventyrere og slå 5 kamptriksterninger for
+    dem. De er i utgangspunktet level 1, men kan få ekstra levels fra
+    kamptriksterningene.
 
 *** Dag 17: Fem eventyrere
 
-   Trekk fem tilfeldige eventyrere og slå 7 kamptriksterninger for
-   dem. De er i utgangspunktet level 2, men kan få ekstra levels fra
-   kamptriksterningene.
+    Trekk fem tilfeldige eventyrere og slå 7 kamptriksterninger for
+    dem. De er i utgangspunktet level 2, men kan få ekstra levels fra
+    kamptriksterningene.
 
 *** Dag 23: Bøndene angriper
 
-   Bøndene kommer i bølge etter bølge helt til du er død. Vinneren
-   er den som overlever lengst, altså dreper flest bønder.
+    Bøndene kommer i bølge etter bølge helt til du er død. Vinneren
+    er den som overlever lengst, altså dreper flest bønder.
 
-   Når første bølge er utradert, kommer neste bølge:
+    Når første bølge er utradert, kommer neste bølge:
 
-   - Først 20 bønder som slåss med d8. Svermen starter på 6 bønder.
-   - Så 20 bønder som slåss med d8+1.
-   - Så 20 bønder som slåss med d10.
-   - Så 20 bønder som slåss med d10. Svermen starter på 8 bønder.
-   - Så 20 bønder som slåss med d10. Svermen starter på 10 bønder.
+    - Først 20 bønder som slåss med d8. Svermen starter på 6 bønder.
+    - Så 20 bønder som slåss med d8+1.
+    - Så 20 bønder som slåss med d10.
+    - Så 20 bønder som slåss med d10. Svermen starter på 8 bønder.
+    - Så 20 bønder som slåss med d10. Svermen starter på 10 bønder.
 
-   Skulle du mot formoding ha overlevet alt dette, så fortsetter svermen
-   å øke med to av gangen.
+    Skulle du mot formoding ha overlevet alt dette, så fortsetter svermen
+    å øke med to av gangen.
 
-   Bøndene har en ekstra egenskap når de svermer. De som slår 1 på
-   terningen flykter midlertidig. Ta de ut av terningsslaget før du
-   beregner dødsfall.
+    Bøndene har en ekstra egenskap når de svermer. De som slår 1 på
+    terningen flykter midlertidig. Ta de ut av terningsslaget før du
+    beregner dødsfall.
