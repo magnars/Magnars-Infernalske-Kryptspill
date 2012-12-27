@@ -220,6 +220,8 @@ legges tilbake i esken - de er ikke i bruk denne gangen.
    Dersom noen kan skyte flere ganger, så får de muligheten når alle har skutt
    første runde - hvis de fortsatt lever.
 
+** Nærkamp
+
 * Angrepene
 
   På dag 11, så 17 og til slutt 23 blir krypten angrepet.
@@ -275,6 +277,7 @@ legges tilbake i esken - de er ikke i bruk denne gangen.
     livskraften ut av to av dine skjeletter kommer du deg til hektene
     igjen. De to skjelettene sønderknuses i prosessen.
 
+** De tre forskjellige angrepene
 *** Dag 11: Tre eventyrere
 
     Trekk tre tilfeldige eventyrere og slå 5 kamptriksterninger for
