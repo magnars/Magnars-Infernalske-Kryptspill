@@ -58,7 +58,7 @@
 
    Dagen etter den 17. natten angriper fem enda kvassere eventyrere. For å overleve
    det må du enten ha bygget et nytt oppholdsrom bak enda flere feller, ha studert
-   fram noen skrekkelige seid, eller ha trent opp og skaffet bra verktøy til
+   fram noen skrekkelige seid, eller ha trent opp og skaffet bra våpen til
    skjelettene dine.
 
 ** Natt 18 til 23
@@ -135,10 +135,10 @@ legges tilbake i esken - de er ikke i bruk denne gangen.
 
    Dette er delen av runden hvor du tar de store avgjørelsene. Det
    viktigste du gjør er å bestemme hva alle skjelettene skal gjøre
-   denne dagen.
+   denne natten.
 
-   - Legg en *byggestein* foran skjelettet for å sende det inn i for å
-     bygge på krypten.
+   - Legg en *byggestein* foran skjelettet for å sende det inn i
+     krypten for å bygge.
 
    - Legg en *ressurs* foran skjelettet for å sende det ut i skogen
      for å samle ressurser.
@@ -176,7 +176,7 @@ legges tilbake i esken - de er ikke i bruk denne gangen.
   man for eksempel i skogen:
 
   - 1 på terningen: 0 ressurser
-  - 2 på terningen: 1 ressurser
+  - 2 på terningen: 1 ressurs
   - 3 på terningen: 1 ressurser
   - 4 på terningen: 2 ressurser
   - 5 på terningen: 2 ressurser
@@ -262,7 +262,7 @@ legges tilbake i esken - de er ikke i bruk denne gangen.
     oppholde deg under angrepet. Mer om det i neste avsnitt.
 
     Noen få oppholdsrom er også *Templer*. Du kan bare bygge ett
-    tempel i din krypt. Et tempel lar deg ofre fanger (et såkalt
+    tempel i din krypt. Tempelet lar deg ofre fanger (et såkalt
     Tempeloffer) for å gjøre Kampseid enda bedre, dersom du bruker det
     som oppholdsrom.
 
