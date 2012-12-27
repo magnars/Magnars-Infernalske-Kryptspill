@@ -234,19 +234,30 @@ legges tilbake i esken - de er ikke i bruk denne gangen.
   For å finne deg må inntrengerne begi seg gjennom krypten, komme seg
   forbi feller og slåss mot skjelettene som står på vakt.
 
-** Dag 11: Tre eventyrere
+*** Oppgjør i oppholdsrommet
+
+  Dersom de finner deg, så har du i oppholdsrommet ditt med deg ett av
+  skjeletten dine som livvakt. Det er nå du kan bruke Kampseid hvis du
+  har det. Så lenge livvakten er i live, kan du ikke dø.
+
+  Skulle inntrengerne klare å ta livet av deg, så sier de seg fornøyd
+  og forlater krypten. Du har et siste triks i ermet. Ved å trekke
+  livskraften ut av to av dine skjeletter kommer du deg til hektene
+  igjen. De to skjelettene sønderknuses i prosessen.
+
+*** Dag 11: Tre eventyrere
 
    Trekk tre tilfeldige eventyrere og slå 5 kamptriksterninger for
    dem. De er i utgangspunktet level 1, men kan få ekstra levels fra
    kamptriksterningene.
 
-** Dag 17: Fem eventyrere
+*** Dag 17: Fem eventyrere
 
    Trekk fem tilfeldige eventyrere og slå 7 kamptriksterninger for
    dem. De er i utgangspunktet level 2, men kan få ekstra levels fra
    kamptriksterningene.
 
-** Dag 23: Bøndene angriper
+*** Dag 23: Bøndene angriper
 
    Bøndene kommer i bølge etter bølge helt til du er død. Vinneren
    er den som overlever lengst, altså dreper flest bønder.
