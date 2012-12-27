@@ -251,13 +251,13 @@ legges tilbake i esken - de er ikke i bruk denne gangen.
    Bøndene kommer i bølge etter bølge helt til du er død. Vinneren
    er den som overlever lengst, altså dreper flest bønder.
 
-   Først kommer 20 bønder som slåss med d8. Når de er utradert kommer
-   neste bølge:
+   Når første bølge er utradert, kommer neste bølge:
 
-   - 20 bønder som slåss med d8+1.
-   - 20 bønder som slåss med d10.
-   - 20 bønder som slåss med d10, og starter svermen med 8 bønder.
-   - 20 bønder som slåss med d10, og starter svermen med 10 bønder.
+   - Først 20 bønder som slåss med d8. Svermen starter på 6 bønder.
+   - Så 20 bønder som slåss med d8+1.
+   - Så 20 bønder som slåss med d10.
+   - Så 20 bønder som slåss med d10. Svermen starter på 8 bønder.
+   - Så 20 bønder som slåss med d10. Svermen starter på 10 bønder.
 
    Skulle du mot formoding ha overlevet alt dette, så fortsetter svermen
    å øke med to av gangen.
