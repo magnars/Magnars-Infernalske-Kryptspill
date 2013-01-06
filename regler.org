@@ -309,3 +309,13 @@ legges tilbake i esken - de er ikke i bruk denne gangen.
     Bøndene har en ekstra egenskap når de svermer. De som slår 1 på
     terningen flykter midlertidig. Ta de ut av terningsslaget før du
     beregner dødsfall.
+* Endringsliste
+** Søndag 6. januar 2013
+*** Hendelsesbunken
+    - Ikke stokk hendelsesbunken. Bare trekk fra toppen, og legg vekk underveis.
+    - Stokk inn akt 2-hendelser etter angrepet dag 11.
+    - Fjern akt 1-hendelser og stokk inn akt 3-hendelser etter angrepet dag 17.
+*** Uendelige løkker
+    - Visse kombinasjoner av Alltid Aktiv og andre kort kan skape uendelige løkker.
+      I en slik situasjon, så mister kortet sin Alltid Aktiv-status etter første reaktivering.
+      Det vil si at du får én reaktivering, men så er festen over.

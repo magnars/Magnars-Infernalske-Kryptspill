@@ -2,6 +2,7 @@
 ** Giftflaske og helsebrygg: kun bruke 1 per slag
 * Feller
 ** Kampestein trigger ingen feller på vei ut
+** Dype Grotter -> ingen oppholdsrom der nede (du bor ikke i dype grotter)
 * Eventyrere
 ** Den Falske Profet
 *** En hjernevasket kan plasseres i fangehull for å få bonus, men er da ikke lengre hjernevasket.
