@@ -191,9 +191,24 @@ legges tilbake i esken - de er ikke i bruk denne gangen.
 
 ** Hendelser i skogen
 
+   Hvis du har vært i skogen trekker din motspiller et kort fra
+   hendelsesbunken og leser høyt. Noen ganger må du gjøre valg før
+   motspilleren leser videre.
+
+   Gjennomfør kortet, og legg det så bort. Kortet er brukt.
+
+   Det skjer én hendelse for hver spiller som har hatt skjeletter i
+   skogen.
+
 ** Ferdig med studier
 
+   Hvis du nå har nok studiesteiner på et studie eller bibliotek, så
+   fjern dem og trekk seid tilsvarende det som står på kortet.
+
 ** Angrep?
+
+   Hvis det er dag 11, 17 eller 23 avsluttes nå runden med et angrep
+   på krypten. Se "Angrepene" lengre nede i reglene.
 
 * Dine første feller
 ** Vaktpost
