@@ -10,71 +10,76 @@
 
 * Grove trekk
 
-  Spillet foregår over 23 runder, også kjent som netter. Hver kveld bestemmer du
-  hva skjelettene dine skal ta seg til den natten. De kan:
+  Spillet foregår over 23 runder, også kjent som dager. Hver morgen
+  bestemmer du hva skjelettene dine skal ta seg til den dagen. De kan:
 
   1. Dra til skogen og samle ressurser.
   2. Dra til landsbyen og fange folk.
   3. Bygge i krypten.
 
-  *Ressurser* brukes for å kjøpe verktøy og feller. *Folk* ofres i skrekkelige
-  seremonier, som oftest for å påkalle flere skjeletter. *Bygging i krypten* er
-  essensielt for å overleve angrepene som vil komme.
+  *Ressurser* brukes for å kjøpe verktøy og feller. *Folk* ofres i
+  skrekkelige seremonier, som oftest for å påkalle flere
+  skjeletter. *Bygging i krypten* er essensielt for å overleve
+  angrepene som vil komme.
 
 * En rask innføring i spillets gang
 ** Starten
 
-   Hver spiller starter med syv ressurser, noen grunnleggende felleidéer, en
-   inngang til krypten og tre lydige skjeletter. Et av skjelettene starter med et
-   tilfeldig våpen.
+   Hver spiller starter med syv ressurser, noen grunnleggende
+   felleidéer, en inngang til krypten og tre lydige skjeletter. Et av
+   skjelettene starter med et tilfeldig våpen.
 
-** Natt 1 til 11
+** Dag 1 til 11
 
-   Du samler ressurser for å kjøpe verktøy og feller, og prøver å få bygd en krypt
-   som kan motstå det første angrepet. Samtidig må du bygge et fangehull, slik at
-   du kan starte å samle folk for å påkalle flere skjeletter.
+   Du samler ressurser for å kjøpe verktøy og feller, og prøver å få
+   bygd en krypt som kan motstå det første angrepet. Samtidig må du
+   bygge et fangehull, slik at du kan starte å samle folk for å
+   påkalle flere skjeletter.
 
 ** Tre eventyrere angriper
 
-   Dagen etter den 11. natten angriper tre eventyrere. Da må du ha bygget et
-   *oppholdsrom* til deg selv i krypten, slik at du har et sted å gjemme deg når de
-   angriper.
+   På kvelden den 11. dagen angriper tre eventyrere. Da må du ha
+   bygget et *oppholdsrom* til deg selv i krypten, slik at du har et
+   sted å gjemme deg når de angriper.
 
-   Din motspiller styrer eventyrerne. De trenger seg inn i krypten, slipper løs
-   fanger, roter i papirer og angriper skjelettene dine. Skulle de nå helt inn i
-   ditt kammers og ta rotta på deg, har du heldigvis noen triks opp ermet. Men det
-   er langt i fra noen ønskelig situasjon.
+   Din motspiller styrer eventyrerne. De trenger seg inn i krypten,
+   slipper løs fanger, roter i papirer og angriper skjelettene dine.
+   Skulle de nå helt inn i ditt kammers og ta rotta på deg, har du
+   heldigvis noen triks opp ermet. Men det er langt i fra noen
+   ønskelig situasjon.
 
-   Når angrepet er over kan du gå over de døde eventyrerne og lete etter plynder.
+   Når angrepet er over kan du gå over de døde eventyrerne og lete
+   etter plynder.
 
-** Natt 12 til 17
+** Dag 12 til 17
 
-   Skjelettene slikker sårene etter angrepet, men det er bare seks netter til det
-   neste. Det må bygges nye, bedre feller, skjelettene må skaffe bedre verktøy, og du
-   burde kanskje ha noen flere skjeletter også. Det er generelt sett alt for dårlig
-   tid.
+   Skjelettene slikker sårene etter angrepet, men det er bare seks
+   dager til det neste. Det må bygges nye, bedre feller, skjelettene
+   må skaffe bedre verktøy, og du burde kanskje ha noen flere
+   skjeletter også. Det er generelt sett alt for dårlig tid.
 
 ** Fem eventyrere angriper
 
-   Dagen etter den 17. natten angriper fem enda kvassere eventyrere. For å overleve
-   det må du enten ha bygget et nytt oppholdsrom bak enda flere feller, ha studert
-   fram noen skrekkelige seid, eller ha trent opp og skaffet bra våpen til
-   skjelettene dine.
+   På kvelden den 17. dagen angriper fem enda kvassere eventyrere. For
+   å overleve det må du enten ha bygget et nytt oppholdsrom bak enda
+   flere feller, ha studert fram noen skrekkelige seid, eller ha trent
+   opp og skaffet bra våpen til skjelettene dine.
 
-** Natt 18 til 23
+** Dag 18 til 23
 
-   Nå kommer bøndene snart. Dere må klargjøre krypten for et massivt angrep. Du
-   kjøper flusst med feller for å finne de som tar livet av flest mulig
-   inntrengere. Rekker du å få opp alle fellene, og med et bra oppholdsrom innerst?
+   Nå kommer bøndene snart. Dere må klargjøre krypten for et massivt
+   angrep. Du kjøper flusst med feller for å finne de som tar livet av
+   flest mulig inntrengere. Rekker du å få opp alle fellene, og med et
+   bra oppholdsrom innerst?
 
 ** Bøndene svermer inn i krypten
 
-   Dagen etter den 23. og siste natten kommer bøndene. De svermer inn
-   i bølge etter bølge og overvelder skjelettene med sin store skare.
+   På kvelden den 23. og siste dagen kommer bøndene. De svermer inn i
+   bølge etter bølge og overvelder skjelettene med sin store skare.
    Fella som drepte to av eventyrerne virker ikke være like effektiv
    lengre.
 
-   Ingen av nekromanserne overlever natten.
+   Ingen av nekromanserne overlever angrepet.
 
    Vinneren er den som klarte å drepe flest bønder før han måtte bøte
    med livet.
@@ -100,7 +105,7 @@
   - 3 skjeletter
   - 1 sett med startrom (markert med stjerne)
   - 1 tilfeldig våpen (gi til ett av skjelettene)
-  - 7 ressurser
+  - 7 ressurser (legg på nekromanser-kortet)
 
 Når nekromansere og innganger er valgt kan resten av disse kortene
 legges tilbake i esken - de er ikke i bruk denne gangen.
@@ -135,7 +140,7 @@ legges tilbake i esken - de er ikke i bruk denne gangen.
 
    Dette er delen av runden hvor du tar de store avgjørelsene. Det
    viktigste du gjør er å bestemme hva alle skjelettene skal gjøre
-   denne natten.
+   denne dagen.
 
    - Legg en *byggestein* foran skjelettet for å sende det inn i
      krypten for å bygge.
@@ -224,7 +229,7 @@ legges tilbake i esken - de er ikke i bruk denne gangen.
 
 * Angrepene
 
-  På dag 11, så 17 og til slutt 23 blir krypten angrepet.
+  På kvelden dag 11, så 17 og til slutt 23 blir krypten angrepet.
 
   Inntrengernes mål er å finne deg, nekromanseren. Du er nødt til å
   være i et ferdig bygget *Oppholdsrom*. Hvis du har flere oppholdsrom
@@ -314,8 +319,9 @@ legges tilbake i esken - de er ikke i bruk denne gangen.
 *** Hendelsesbunken
     - Ikke stokk hendelsesbunken. Bare trekk fra toppen, og legg vekk underveis.
     - Stokk inn akt 2-hendelser etter angrepet dag 11.
-    - Fjern akt 1-hendelser og stokk inn akt 3-hendelser etter angrepet dag 17.
+    - Stokk inn akt 3-hendelser etter angrepet dag 17.
 *** Uendelige løkker
-    - Visse kombinasjoner av Alltid Aktiv og andre kort kan skape uendelige løkker.
-      I en slik situasjon, så mister kortet sin Alltid Aktiv-status etter første reaktivering.
-      Det vil si at du får én reaktivering, men så er festen over.
+    - Visse kombinasjoner av Alltid Aktiv og andre kort kan skape
+      uendelige løkker. I en slik situasjon, så mister kortet sin
+      Alltid Aktiv-status etter første reaktivering. Det vil si at du
+      får én reaktivering, men så er festen over.
