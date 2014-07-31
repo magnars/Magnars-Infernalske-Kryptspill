@@ -118,8 +118,8 @@ legges tilbake i esken - de er ikke i bruk denne gangen.
   - *Inngangen* er starten på krypten der du holder til, og er det
     første rommet inntrengere ankommer.
 
-  - *Skjelettene* gjør alt arbeidet, samler ressurser, mennesker og
-    bygger på krypten.
+  - *Skjelettene* gjør alt arbeidet, samler ressurser, folk og bygger
+    på krypten.
 
   - *Romkort* blir en del av krypten når skjelettene har bygget dem
     ferdig.
