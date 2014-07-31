@@ -1,5 +1,15 @@
 # Enda nyere regler
 
+* Markedsplassen er borte. Nye, mer interessante, skogskort kommer.
+
+* Når to skjeletter møtes i skogen til kamp, så tar man ikke lenger noen
+  ressurser fra hverandre. Belønningen for seier står på kortet istedet.
+
+* Obs! Giftflaske er oppgradert, og gir nå +2 i angrep. Helsebrygg gir +2 i
+  forsvar.
+
+# Nyere regler
+
 * Hvis du slår [1] i bygging, bruker hakke, og får [456] så levler skjelettet
   til en byggeleder.
 
