@@ -49,10 +49,8 @@
 ** DONE Klubbe
    Slå om igjen én 1-er ved menneskefanging.
    Oppgradert: 2-ere også.
-* Annet [0/3]
+* Annet [0/2]
 ** TODO Giftflaske
    Bruk opp for +2 i angrep. Max én per slag.
 ** TODO Helsebrygg
    Bruk opp for +2 i forsvar. Max én per slag.
-** TODO Seidebok
-   Representerer et seid i markedsplassen.

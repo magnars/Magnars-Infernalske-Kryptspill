@@ -44,8 +44,8 @@
      showgrid="false"
      inkscape:window-width="1341"
      inkscape:window-height="811"
-     inkscape:window-x="83"
-     inkscape:window-y="69"
+     inkscape:window-x="334"
+     inkscape:window-y="258"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata7">
@@ -183,8 +183,8 @@
            height="90.958099"
            width="132.82684"
            id="rect4141" /></flowRegion><flowPara
-         id="flowPara3476"></flowPara><flowPara
-         id="flowPara3101"></flowPara><flowPara
+         id="flowPara3476" /><flowPara
+         id="flowPara3101" /><flowPara
          id="flowPara3103">Bruk opp for</flowPara><flowPara
          id="flowPara3105">+2 i angrep, etter</flowPara><flowPara
          id="flowPara3107">terningene er slått.</flowPara></flowRoot>    <rect
@@ -218,8 +218,8 @@
            x="57.495598"
            y="109.13376"
            style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Serif;-inkscape-font-specification:Serif" /></flowRegion><flowPara
-         id="flowPara3487"></flowPara><flowPara
-         id="flowPara3118"></flowPara><flowPara
+         id="flowPara3487" /><flowPara
+         id="flowPara3118" /><flowPara
          id="flowPara3120">Bruk opp for</flowPara><flowPara
          id="flowPara3122">+2 i angrep, etter</flowPara><flowPara
          id="flowPara3124">terningene er slått.</flowPara></flowRoot>    <rect
@@ -253,8 +253,8 @@
            x="57.495598"
            y="109.13376"
            style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Serif;-inkscape-font-specification:Serif" /></flowRegion><flowPara
-         id="flowPara3498"></flowPara><flowPara
-         id="flowPara3135"></flowPara><flowPara
+         id="flowPara3498" /><flowPara
+         id="flowPara3135" /><flowPara
          id="flowPara3137">Bruk opp for</flowPara><flowPara
          id="flowPara3139">+2 i angrep, etter</flowPara><flowPara
          id="flowPara3141">terningene er slått.</flowPara></flowRoot>    <rect
@@ -560,9 +560,9 @@
            id="rect3191" /></flowRegion><flowPara
          id="flowPara3201" /><flowPara
          id="flowPara3217" /><flowPara
-         id="flowPara3219">Rustning.</flowPara><flowPara
-         id="flowPara3223">Permanent +1</flowPara><flowPara
-         id="flowPara3227">i angrep i nærkamp.</flowPara></flowRoot>    <text
+         id="flowPara3223">Rustning.</flowPara><flowPara
+         id="flowPara3131">+1 i forsvar</flowPara><flowPara
+         id="flowPara3227">én gang per kamp.</flowPara></flowRoot>    <text
        transform="matrix(0,-1,1,0,0,0)"
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Apple Chancery;-inkscape-font-specification:Apple Chancery Bold"
@@ -573,7 +573,7 @@
          id="tspan3231"
          sodipodi:role="line"
          x="-601.07196"
-         y="121.61276">Ringbrynje</tspan></text>
+         y="121.61276">Stålbrynje</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot3233"
