@@ -1,1 +1,10 @@
+* Skjeletthoder på romkort som gir ekstra skjelett
+
+* "Rop om hjelp" -> max 3 inn
+
 * Ikke "Loot" men "Plynder"
+
+* Klarer de bryte opp døra? (5 eller 6, istedet for 11 sum)
+
+* Litt i overkant med disse ja/nei hendelsene (pilende skikkelser og slikt)
+

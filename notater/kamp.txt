@@ -1,9 +1,9 @@
 Nye regler:
 
- - Buer som skyter inn i svermer med motstandere. Det må være lettere
-   enn det er nå. Så fra nå av slår svermer seks terninger i forsvar
-   (begrenset av antall gjenværende såklart), og forsvarer seg med den
-   laveste av de miderste verdiene.
+ - Bønder i waves: d8, d8+1, d8+2, så fortsetter det med d8+2, d8+2, d8+2
+
+ - Svermer med mer enn 3 folk forsvarer seg dårlig mot buer. Slå fire terninger
+   i forsvar, og velg den nest laveste verdien.
 
  - Når du slår flere terninger så velger du fritt blant dem.
    Det får påvirkning for levling av kriger fra 2->3 (lettere å bruke skjoldet)
