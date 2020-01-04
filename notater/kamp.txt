@@ -122,5 +122,5 @@ Nekromanser-endringer:
 
 Annet:
 
- - det er maks 20 inntrengere i et rom av gangen
- - det kommer minst 30 bønder, men det er et hemmelig valg om å få flere --> den som klarer flest og overlever er best.
+ - bøndene kommer i waves av 20
+ - fortsett å drepe waves av bønder til du dør: det er din score

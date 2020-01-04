@@ -48,10 +48,8 @@ Angrep på krypten
 * Krypten kan angripes av eventyrere og bønder. Begge disse omtales som inntrengere.
 * Det kommer 3 eventyrere på dag 11. Ingen apprentices.
 * Det kommer 5 level to eventyrere på dag 17.
-* På dag 23 kommer det minst 30 bønder. Dersom du mener at krypten din kan ta flere,
-  så kan du selv velge å provosere bøndene med noen bitende kommentarer. En hemmelig
-  "budrunde" for å velge hvor mange som skal komme. Den som overlever mot flest bønder
-  er den umoralske vinneren.
+* På dag 23 kommer det 20 bønder av gangen i wave etter wave. Fortsett til du dør.
+  Din score er så mange bønder som du drepte.
 * Dersom du har et rom som tiltrekker flere bønder (som landsbyen og skattekammer),
   så vil det komme flere bønder på toppen av det du bød. Men for å bestemme vinneren,
   så er det budet ditt - og ikke det totale antall bønder - som gjelder.
